@@ -27,40 +27,10 @@
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
     --sidebar-primary: 240 5.9% 10%;
-    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-primary-foreground: 0 0% 100%;
     --sidebar-accent: 240 4.8% 95.9%;
     --sidebar-accent-foreground: 240 5.9% 10%;
     --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
-  }
-
-  .dark {
-    --background: 240 10% 3.9%;
-    --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
-    --primary-foreground: 240 5.9% 10%;
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 240 4.9% 83.9%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 }
@@ -72,4 +42,205 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* ============================================================
+   Wikipedia風（Matopedia）スタイル
+   ============================================================ */
+
+.wiki-root {
+  @apply min-h-screen flex flex-col bg-[#f6f6f6] text-[#202122];
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", "Yu Gothic", Meiryo, sans-serif;
+  font-size: 15px;
+}
+
+/* ---- ヘッダ ---- */
+.wiki-header {
+  @apply bg-white border-b border-[#a2a9b1];
+}
+.wiki-header-inner {
+  @apply max-w-6xl mx-auto flex items-center justify-between gap-4 px-4 py-3;
+}
+.wiki-logo {
+  @apply w-11 h-11 shrink-0 rounded-full border-2 border-[#54595d] grid place-items-center
+    bg-[#f8f9fa] text-[#202122] text-xl font-bold select-none;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+}
+.wiki-sitename {
+  @apply block text-lg md:text-xl leading-snug text-[#202122];
+  font-family: Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+}
+.wiki-sitetag {
+  @apply block text-[11px] text-[#54595d];
+}
+
+/* ---- 検索 ---- */
+.wiki-search-input {
+  @apply flex-1 min-w-0 border border-[#a2a9b1] rounded-sm px-2.5 py-1.5 text-sm bg-white
+    focus:outline-none focus:border-[#3366cc] focus:ring-1 focus:ring-[#3366cc];
+}
+.wiki-search-btn {
+  @apply border border-[#a2a9b1] rounded-sm px-2.5 bg-[#f8f9fa] text-[#202122]
+    hover:bg-[#eaecf0] transition-colors;
+}
+
+/* ---- レイアウト ---- */
+.wiki-body {
+  @apply flex-1 max-w-6xl w-full mx-auto flex items-start gap-0;
+}
+.wiki-sidebar {
+  @apply w-52 shrink-0 px-3 py-4 sticky top-0;
+}
+.wiki-main {
+  @apply flex-1 min-w-0 bg-white md:border-l md:border-r border-[#a2a9b1] md:my-0;
+}
+
+/* ---- サイドボックス ---- */
+.wiki-side-box {
+  @apply mb-4;
+}
+.wiki-side-title {
+  @apply text-[11px] font-bold text-[#54595d] tracking-wide border-b border-[#c8ccd1] pb-1 mb-1.5;
+}
+.wiki-side-list {
+  @apply text-[13px] space-y-1.5 pl-1;
+}
+.wiki-side-list a {
+  @apply text-[#3366cc] hover:underline;
+}
+.wiki-side-list a.active {
+  @apply font-bold text-[#202122] no-underline;
+}
+
+/* ---- ページ本体 ---- */
+.wiki-page {
+  @apply px-5 md:px-8 py-5 max-w-none;
+}
+.wiki-h1 {
+  @apply text-[26px] md:text-[28px] font-normal text-[#202122] leading-snug border-b border-[#a2a9b1] pb-1.5 mb-1;
+  font-family: Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+}
+.wiki-subtitle {
+  @apply text-[12px] text-[#54595d] mb-4;
+}
+.wiki-h2 {
+  @apply text-[19px] font-normal text-[#202122] border-b border-[#a2a9b1] mt-7 mb-3 pb-1;
+  font-family: Georgia, "Times New Roman", "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+}
+.wiki-p {
+  @apply my-3 leading-[1.9] text-[15px];
+}
+
+/* ---- リンク ---- */
+.wiki-link {
+  @apply text-[#3366cc] hover:underline cursor-pointer;
+}
+.wiki-redlink {
+  @apply text-[#ba0000] cursor-help;
+}
+
+/* ---- お知らせボックス ---- */
+.wiki-notice {
+  @apply border border-[#c8ccd1] bg-[#f8f9fa] rounded-sm px-4 py-3 text-sm leading-relaxed mt-4;
+}
+
+/* ---- ポータル（メインページの箱） ---- */
+.wiki-portal {
+  @apply border border-[#c8ccd1] rounded-sm bg-white;
+}
+.wiki-portal-title {
+  @apply text-[15px] font-bold bg-[#eaecf0] border-b border-[#c8ccd1] px-3 py-2 text-[#202122];
+}
+.wiki-portal-list {
+  @apply px-4 py-3 space-y-2 text-sm leading-relaxed;
+}
+
+/* ---- 統計 ---- */
+.wiki-stat {
+  @apply border border-[#c8ccd1] bg-[#f8f9fa] rounded-sm px-3 py-3 text-center;
+}
+.wiki-stat-n {
+  @apply text-lg font-bold text-[#202122];
+  font-family: Georgia, "Times New Roman", serif;
+}
+.wiki-stat-d {
+  @apply text-[11px] text-[#54595d] mt-1 leading-snug;
+}
+
+/* ---- インフォボックス ---- */
+.wiki-infobox {
+  @apply border border-[#a2a9b1] bg-[#f8f9fa] rounded-sm text-[13px] mb-4 md:float-right md:w-72 md:ml-5;
+}
+.wiki-infobox-title {
+  @apply text-center font-bold bg-[#eaecf0] border-b border-[#c8ccd1] px-2 py-1.5;
+}
+.wiki-infobox-sub {
+  @apply text-center text-[11px] text-[#54595d] px-2 py-1 border-b border-[#c8ccd1];
+}
+.wiki-infobox-table {
+  @apply w-full border-collapse;
+}
+.wiki-infobox-table th {
+  @apply text-left align-top font-bold text-[#202122] px-2.5 py-1.5 border-b border-[#eaecf0] w-[38%] bg-[#f8f9fa];
+}
+.wiki-infobox-table td {
+  @apply align-top px-2.5 py-1.5 border-b border-[#eaecf0] leading-relaxed;
+}
+.wiki-infobox-table tr:last-child th,
+.wiki-infobox-table tr:last-child td {
+  @apply border-b-0;
+}
+
+/* ---- 目次 ---- */
+.wiki-toc {
+  @apply inline-block border border-[#a2a9b1] bg-[#f8f9fa] rounded-sm px-4 py-2.5 my-4 text-sm min-w-56;
+}
+.wiki-toc-title {
+  @apply font-bold text-center mb-1;
+}
+.wiki-toc ol {
+  @apply space-y-0.5;
+}
+.wiki-toc a {
+  @apply text-[#3366cc] hover:underline;
+}
+.wiki-toc-num {
+  @apply text-[#202122];
+}
+
+/* ---- テーブル ---- */
+.wiki-table {
+  @apply w-full border-collapse border border-[#a2a9b1] text-sm my-3;
+}
+.wiki-table th {
+  @apply border border-[#a2a9b1] bg-[#eaecf0] px-3 py-2 text-left font-bold;
+}
+.wiki-table td {
+  @apply border border-[#a2a9b1] px-3 py-2 align-top;
+}
+.wiki-table tbody tr:nth-child(even) {
+  @apply bg-[#f8f9fa];
+}
+
+/* ---- 出典・関連項目 ---- */
+.wiki-refs {
+  @apply text-[13px] space-y-1.5 list-decimal pl-6 my-2;
+}
+.wiki-related {
+  @apply text-[14px] space-y-2 my-2;
+}
+
+/* ---- カテゴリバー・更新日時 ---- */
+.wiki-catbar {
+  @apply border border-[#c8ccd1] bg-[#f8f9fa] rounded-sm px-3 py-1.5 text-[12px] text-[#54595d] mt-8;
+}
+.wiki-updated {
+  @apply text-[11px] text-[#72777d] mt-3;
+}
+
+/* ---- フッタ ---- */
+.wiki-footer {
+  @apply border-t border-[#a2a9b1] bg-[#f8f9fa] text-[12px] text-[#54595d] leading-relaxed px-6 py-5
+    max-w-6xl w-full mx-auto space-y-1.5;
 }
