@@ -2,7 +2,7 @@ import { Link } from 'react-router'
 import { articles, CATEGORIES, getByCategory, stripMarkup } from '@/data/articles'
 import { ArrowRight, BookMarked, Sparkles } from 'lucide-react'
 
-const FEATURED = ['matoinoba', 'training-chain', 'kaikyaku', 'pk-operation', 'spoon-bending', 'daikei-model']
+const FEATURED = ['matoinoba', 'training-chain', 'kaikyaku', 'pk-operation', 'abstract-elevator', 'psi', 'spoon-bending', 'daikei-model']
 
 export default function MainPage() {
   return (
