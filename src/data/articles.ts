@@ -3559,6 +3559,267 @@ export const articles: WikiArticle[] = [
     ],
   },
   {
+    slug: 'feromon-kikou',
+    title: 'フェロモン気功（モテ気功）',
+    reading: 'フェロモンきこう',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'フェロモン気功とは、「モテ」をテーマにした気功技術である。「モテ気功ならぬ、フェロモン気功」として開講され、オーラ（フェロモン）を整えることで「モテる者はますますモテ」というマタイ効果を目指す。',
+      '「シンプルに理論に基づいて、実践を積み重ねることで、一年後には驚くほどモテるようになって、素晴らしいパートナーとも出会えた」というフィードバックが寄せられている。',
+    ],
+    infobox: [
+      { label: '分類', value: '魅力・オーラ系気功技術' },
+      { label: '別名', value: 'モテ気功' },
+      { label: '理論', value: 'マタイ効果（モテる者はますますモテ）' },
+      { label: '言及記事数', value: '約61件' },
+    ],
+    sections: [
+      {
+        heading: 'モテの定義',
+        paras: [
+          'モテとは「たくさんの異性（もしくは同性）にモテる人、もしくはその状態」、非モテとは「マインドセット自体がモテないので、実際にモテない人もしくはその状態」と定義される。外見や容姿も大事だが決定的因子ではなく、「アルファ（ボスザル）的な資質がフェロモン」とされる。',
+          '動物行動学の知見（不細工な雄でもメスがいれば孤独なイケメンよりモテる）を引きつつ、マインドセットとオーラの改善がモテに直結すると説く。',
+        ],
+      },
+    ],
+    related: ['bihada-cream', 'binan-bijo-kekai', 'kassai', 'kikou'],
+    sources: [
+      { label: 'マタイ効果はフェロモンでも同じ（2017年12月25日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12339168739.html' },
+    ],
+  },
+  {
+    slug: 'envy-no-tsuta',
+    title: 'Envyの蔦を取る',
+    reading: 'エンヴィーのつたをとる',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'Envyの蔦を取るとは、嫉妬（Envy）を「蔦（つた）」として視覚化し、それを取り除く気功技術である。後継技術が「[[basshin|抜森（ばっしん）]]」（Ray命名）で、こちらは「緑色の大量のEnvyが森のように鬱蒼としているので、それを根こそぎ剥がしていく」。',
+      '「根が深い問題をはらんでいる」とされ、体系的・継続的に剥がす必要がある技術。',
+    ],
+    infobox: [
+      { label: '分類', value: '感情除去系気功技術' },
+      { label: '対象', value: '嫉妬（Envy）' },
+      { label: 'イメージ', value: '緑色の蔦・森' },
+      { label: '後継', value: '[[basshin|抜森]]（Ray命名）' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '嫉妬という感情を、身体に絡みつく「緑色の蔦」として捉え、それを一本一本取り除いていく。後継の抜森では、蔦が「森のように鬱蒼」と茂った状態を根こそぎ剥がす。',
+          '「ホムンクルスのような新しいタイプの洗脳をもっと見つけて、人を楽にしたい」というメンバーのゴールと結びつき、感情・洗脳の除去技術の系譜に位置する。',
+        ],
+      },
+    ],
+    related: ['basshin', 'datsu-sennou', 'kassai', 'kikou'],
+    sources: [
+      { label: '不安定だった爪先立ちが内転筋群や骨盤底筋群もキュッとしまって（2022年9月11日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12763720245.html' },
+    ],
+  },
+  {
+    slug: 'basshin',
+    title: '抜森（ばっしん）',
+    reading: 'ばっしん',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '抜森（ばっしん）とは、「[[envy-no-tsuta|Envyの蔦を取る]]」の後継技術で、Rayが命名した造語である。「抜針（ばっしん）」の特殊バージョンとして位置づけられる。',
+      '「緑色の大量のEnvyが森のように鬱蒼としているので、それを根こそぎ剥がしていきます。体系的に継続的に剥がします」とされる。',
+    ],
+    infobox: [
+      { label: '読み', value: 'ばっしん' },
+      { label: '分類', value: '感情除去系気功技術' },
+      { label: '命名', value: 'Ray' },
+      { label: '前身', value: '[[envy-no-tsuta|Envyの蔦を取る]]・[[basshin-bari|抜針]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '「森だけに根が深い問題をはらんでいます」とされ、単発の除去ではなく体系的・継続的なアプローチが必要とされる。2022年に誕生した比較的新しい技術。',
+        ],
+      },
+    ],
+    related: ['envy-no-tsuta', 'basshin-bari', 'datsu-sennou', 'kikou'],
+    sources: [
+      { label: '不安定だった爪先立ちが内転筋群や骨盤底筋群もキュッとしまって（2022年9月11日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12763720245.html' },
+    ],
+  },
+  {
+    slug: 'basshin-bari',
+    title: '抜針（ばっしん）',
+    reading: 'ばっしん',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '抜針（ばっしん）とは、「この5年ほど大活躍」とされる気功技術で、ヒーリングに広く用いられる。2017年の記事で「新しいセミナー未公開の技術である『抜針』でヒーリングをガンガンやっている人がいます」と紹介された。',
+      '「針（はり）」を抜く――身体や心に刺さった何かを抜き取るイメージの技術と推測され、後に[[basshin|抜森]]の母体となった。',
+    ],
+    infobox: [
+      { label: '読み', value: 'ばっしん' },
+      { label: '分類', value: '除去系気功技術' },
+      { label: '活躍期', value: '2017年頃〜' },
+      { label: '派生', value: '[[basshin|抜森]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '青龍やバフォメットなどの[[shikigami|式神]]を使う受講生と並んで、「抜針でヒーリングをガンガンやっている人」がいるとされる。一般には「相当に高度な技術」だが、使い手にとっては問題ないレベルとされる。',
+        ],
+      },
+    ],
+    related: ['basshin', 'datsu-sennou', 'zengijutsu-nuki', 'kikou'],
+    sources: [
+      { label: '天才に生まれなくても、天才になるためのシステマチックな方法論！（2017年12月21日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12337985040.html' },
+    ],
+  },
+  {
+    slug: 'aura-drainage',
+    title: 'オーラ・ドレナージュ',
+    reading: 'オーラ・ドレナージュ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'オーラ・ドレナージュとは、「オーラに触れて、オーラを癒やす」気功技術である。ドレナージュ（排液・排出）の名の通り、オーラの滞りを流すイメージの技術。',
+      '美肌クリーム系列の技術の一つとして、「美肌プロ養成スクール」で伝授された。',
+    ],
+    infobox: [
+      { label: '分類', value: 'オーラ系気功技術' },
+      { label: '操作', value: 'オーラに触れて癒やす・流す' },
+      { label: '関連', value: '[[feromon-kikou|フェロモン気功]]・[[bihada-cream|美肌クリーム]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '「はじめての気功」講座のテーマとして「オーラ・ドレナージュ」が掲げられ、美肌クリーム・美髪トリートメント・美白・赤ちゃん肌・[[bichou|美腸]]・美容整形と並ぶ美容・オーラ系技術のラインアップに数えられる。',
+        ],
+      },
+    ],
+    related: ['feromon-kikou', 'bihada-cream', 'bichou', 'kikou'],
+    sources: [
+      { label: '開業系第３弾は「言語による内部表現書き換え」（2016年1月21日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12119819312.html' },
+    ],
+  },
+  {
+    slug: 'bichou',
+    title: '美腸',
+    reading: 'びちょう',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美腸（びちょう）とは、腸を美しく整える気功技術である。[[bihada-cream|美肌クリーム]]系列の美容技術の一つとして「はじめての気功」講座で扱われた。',
+      '腸内環境と肌・身体の美しさを結びつける、まといのばの美容系アプローチの一環。',
+    ],
+    infobox: [
+      { label: '分類', value: '美容・内臓系気功技術' },
+      { label: '対象', value: '腸' },
+      { label: '関連', value: '[[bihada-cream|美肌クリーム]]・[[kafunsho-kikou|花粉症対策気功]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '美肌クリーム・美髪トリートメント・美白・赤ちゃん肌・美容整形と並ぶ、美肌プロ養成スクール系の技術ラインアップの一つ。腸は「第二の脳」とも呼ばれ、花粉症対策気功（腸戸締まり論）とも通じる内臓アプローチの美容版と位置づけられる。',
+        ],
+      },
+    ],
+    related: ['bihada-cream', 'kafunsho-kikou', 'aura-drainage'],
+    sources: [
+      { label: '美肌クリームを来年から商業利用可能とします！（2012年10月5日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-11371575275.html' },
+    ],
+  },
+  {
+    slug: 'zenshin-cube',
+    title: '全身Cube',
+    reading: 'ぜんしんキューブ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '全身Cube（ぜんしんキューブ）とは、[[kuukai-body|空海の身体]]とセットで扱われる身体系の気功技術である。「空海の身体、全身Cube、美肌クリーム・ダイナミック版」という講座ラインアップで紹介された。',
+      '「気功技術の創り方のシンプルさ」という文脈で言及され、身体を立方体（Cube）として捉え直すイメージ操作と推測される。',
+    ],
+    infobox: [
+      { label: '分類', value: '身体認識系気功技術' },
+      { label: '関連', value: '[[kuukai-body|空海の身体]]・[[bihada-cream|美肌クリーム]]' },
+      { label: '言及記事数', value: '約11件' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '空海の身体の壮大な情報身体観と、美肌クリームのダイナミック版の中間に位置する身体認識技術。詳細な手順は講座内での伝授が中心で、ブログ上では名称と講座ラインアップのみが確認できる。',
+        ],
+      },
+    ],
+    related: ['kuukai-body', 'bihada-cream', 'kikou'],
+    sources: [
+      { label: '気功技術の創り方のシンプルさ（2015年3月21日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12004117809.html' },
+    ],
+  },
+  {
+    slug: 'flex',
+    title: 'フレックス（つま先）',
+    reading: 'フレックス',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'フレックスとは、バレエで足首を曲げてつま先を上げる（伸ばさない）状態を指す用語だが、まといのばでは「つま先を伸ばすことよりもフレックスを気にしたほうがいい理由」として独自の指導論が展開される。',
+      '[[kiseki-no-tsumasaki|奇跡のつま先]]と表裏の関係にあり、つま先を「伸ばす」ことへの執着を一度手放すことで、結果的に美しいつま先が得られるという逆説。',
+    ],
+    infobox: [
+      { label: '分類', value: 'つま先・足首ワーク' },
+      { label: '定義', value: '足首を曲げつま先を上げる状態' },
+      { label: '関連', value: '[[kiseki-no-tsumasaki|奇跡のつま先]]・[[yottsu-ashikubi|4つの足首]]' },
+      { label: '言及記事数', value: '約35件' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          'バレエママが「つま先がフレックスになっている（伸びていない）」と注意する光景がよくあるが、「親御さんが注意しても意味ないどころか、逆効果」とされる。つま先の美しさは「伸ばそう」とする意図ではなく、[[kaikyaku|開脚理論]]と同じく「開こうとすると閉じる」原則に従う。',
+        ],
+      },
+    ],
+    related: ['kiseki-no-tsumasaki', 'yottsu-ashikubi', 'kaikyaku'],
+    sources: [
+      { label: 'つま先を伸ばすことよりもフレックスを気にしたほうがいい理由（2013年12月31日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-11076065426.html' },
+    ],
+  },
+  {
+    slug: 'bihada-dynamic',
+    title: '美肌クリーム・ダイナミック版',
+    reading: 'びはだくりーむ・ダイナミックばん',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美肌クリーム・ダイナミック版とは、[[bihada-cream|美肌クリーム]]の強化版で、「S字とBackという技術を追加してチェス盤３で再構成した全く新しい美肌クリーム」として2011年に登場した。',
+      '「つぼの中」「プログラミング」というサブバージョンも存在し、美肌クリームの最上位進化形と位置づけられる。',
+    ],
+    infobox: [
+      { label: '分類', value: '美容系気功技術（上位版）' },
+      { label: '構成技術', value: '[[s-jirassen|S字]]・[[back|Back]]・[[chess-ban|チェス盤3]]' },
+      { label: '登場', value: '2011年' },
+      { label: '言及記事数', value: '約57件' },
+    ],
+    sections: [
+      {
+        heading: '再構成',
+        paras: [
+          '「S字とBackという技術を追加してチェス盤３で再構成」とされ、単なる美肌クリームの強化ではなく、[[s-jirassen|S字螺旋]]・[[back|Back]]・[[chess-ban|チェス盤]]という別系統の技術を統合した再設計である。',
+          '美肌プロ養成スクールの中核技術として、[[zenshin-cube|全身Cube]]・[[kuukai-body|空海の身体]]と並ぶ上位ラインアップに位置する。',
+        ],
+      },
+    ],
+    related: ['bihada-cream', 's-jirassen', 'back', 'chess-ban'],
+    sources: [
+      { label: '美肌クリームを来年から商業利用可能とします！（2012年10月5日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-11371575275.html' },
+    ],
+  },
+  {
     slug: 'denju',
     title: '伝授',
     reading: 'でんじゅ',
