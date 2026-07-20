@@ -3218,6 +3218,5284 @@ export const articles: WikiArticle[] = [
       { label: '秘密にしておきたかった気功技術まとめサイトをとうとう公開（2016年3月11日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-12137967046.html' },
     ],
   },
+  {
+    slug: 'iq-382',
+    title: 'IQアップ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'IQアップとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「IQアップ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=382' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'iq-base-up-web-467',
+    title: 'IQ Base⇒Up⇒Web',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'IQ Base⇒Up⇒Webとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「IQ Base⇒Up⇒Web」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=467' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-93',
+    title: '赤ちゃんの手',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '赤ちゃんの手とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「赤ちゃんの手」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=93' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-78',
+    title: '赤ちゃん肌',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '赤ちゃん肌とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「赤ちゃん肌」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=78' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-642',
+    title: '足裏コロコロ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '足裏コロコロとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「足裏コロコロ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=642' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-189',
+    title: 'アジュナを開く',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'アジュナを開くとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アジュナを開く」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=189' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-33',
+    title: 'アームス',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'アームスとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アームス」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=33' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-38',
+    title: 'アラベスク',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'アラベスクとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アラベスク」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=38' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-232',
+    title: 'アンカー（切り）',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'アンカー（切り）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アンカー（切り）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=232' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-120',
+    title: '（アンチ）エイジング',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '（アンチ）エイジングとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「（アンチ）エイジング」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=120' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-430',
+    title: 'アンダー',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'アンダーとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アンダー」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=430' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-42',
+    title: 'アンディオール',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'アンディオールとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「アンディオール」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=42' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-323',
+    title: '生きた解剖学',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '生きた解剖学とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「生きた解剖学」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=323' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-252',
+    title: '一斉遠隔',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '一斉遠隔とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「一斉遠隔」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=252' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-179',
+    title: '医療パラダイム俯瞰の風景',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '医療パラダイム俯瞰の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「医療パラダイム俯瞰の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=179' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'englishbrain-134',
+    title: 'EnglishBrain',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'EnglishBrainとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「EnglishBrain」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=134' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-112',
+    title: '印とマントラ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '印とマントラとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「印とマントラ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=112' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-617',
+    title: 'インナーチャイルド',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'インナーチャイルドとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「インナーチャイルド」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=617' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1318',
+    title: 'インナーチャイルドシート',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'インナーチャイルドシートとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「インナーチャイルドシート」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1318' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-185',
+    title: '内なる覚醒',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '内なる覚醒とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「内なる覚醒」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=185' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-106',
+    title: '美しい身体',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美しい身体とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美しい身体」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=106' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-170',
+    title: '英国王のスピーチ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '英国王のスピーチとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「英国王のスピーチ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=170' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-132',
+    title: '英語耳（周波数）',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '英語耳（周波数）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「英語耳（周波数）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=132' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 's-743',
+    title: 'S字',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'S字とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「S字」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=743' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 's-735',
+    title: 'S字螺旋',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'S字螺旋とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「S字螺旋」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=735' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-449',
+    title: 'エフィカシー',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'エフィカシーとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「エフィカシー」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=449' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'fjk-215',
+    title: 'FJK',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'FJKとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「FJK」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=215' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'lub-426',
+    title: 'LUB',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'LUBとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「LUB」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=426' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-254',
+    title: '遠隔',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '遠隔とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「遠隔」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=254' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-601',
+    title: '縁起',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '縁起とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「縁起」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=601' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-146',
+    title: '縁起マトリックス',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '縁起マトリックスとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「縁起マトリックス」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=146' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-555',
+    title: '縁起マトリックス(身体デザインバージョン)',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '縁起マトリックス(身体デザインバージョン)とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「縁起マトリックス(身体デザインバージョン)」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=555' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'o-447',
+    title: 'O脚',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'O脚とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「O脚」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=447' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-517',
+    title: '重い手',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '重い手とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「重い手」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=517' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-309',
+    title: 'オーラドレナージュ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'オーラドレナージュとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「オーラドレナージュ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=309' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-442',
+    title: '外反',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '外反とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「外反」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=442' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-424',
+    title: '外反母趾',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '外反母趾とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「外反母趾」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=424' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-104',
+    title: '顎関節',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '顎関節とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「顎関節」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=104' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-166',
+    title: '紙',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '紙とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「紙」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=166' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-187',
+    title: '気功技術の水準を変える（チャンネルを変える）',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '気功技術の水準を変える（チャンネルを変える）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気功技術の水準を変える（チャンネルを変える）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=187' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-28',
+    title: '気功ストレッチ',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '気功ストレッチとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気功ストレッチ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=28' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-587',
+    title: '気功テスト',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '気功テストとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気功テスト」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=587' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'kids-156',
+    title: 'Kids',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'Kidsとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「Kids」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=156' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-288',
+    title: '気の視覚化〜オーラをみる',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '気の視覚化〜オーラをみるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気の視覚化〜オーラをみる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=288' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-76',
+    title: '究極の骨盤ダイエット',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '究極の骨盤ダイエットとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「究極の骨盤ダイエット」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=76' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-350',
+    title: '胸骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '胸骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「胸骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=350' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-506',
+    title: '胸肋関節',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '胸肋関節とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「胸肋関節」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=506' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-334',
+    title: '胸椎',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '胸椎とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「胸椎」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=334' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-51',
+    title: '巨大丹田',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '巨大丹田とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「巨大丹田」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=51' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-266',
+    title: '気を出す、気を感じる',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '気を出す、気を感じるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気を出す、気を感じる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=266' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-574',
+    title: '気を通す',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '気を通すとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気を通す」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=574' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-562',
+    title: '気を流す',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '気を流すとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「気を流す」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=562' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-380',
+    title: '筋肉',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '筋肉とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「筋肉」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=380' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'quest-459',
+    title: 'Quest',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'Questとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「Quest」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=459' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-961',
+    title: '頚椎',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '頚椎とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「頚椎」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=961' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-338',
+    title: '頚椎１番',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '頚椎１番とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「頚椎１番」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=338' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-336',
+    title: '頚椎１番２番',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '頚椎１番２番とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「頚椎１番２番」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=336' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-498',
+    title: '経絡',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '経絡とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「経絡」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=498' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-398',
+    title: '血液気功',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '血液気功とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「血液気功」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=398' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-370',
+    title: '元気',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '元気とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「元気」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=370' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-60',
+    title: '公理系（プログラム）',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '公理系（プログラム）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「公理系（プログラム）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=60' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-248',
+    title: '虚空蔵求聞持法',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '虚空蔵求聞持法とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「虚空蔵求聞持法」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=248' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-122',
+    title: '心の旅',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '心の旅とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「心の旅」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=122' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-586',
+    title: 'ゴーストバスターズ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ゴーストバスターズとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ゴーストバスターズ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=586' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'godhand-124',
+    title: 'GodHand（手根骨）',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'GodHand（手根骨）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「GodHand（手根骨）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=124' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-537',
+    title: '骨格筋',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '骨格筋とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「骨格筋」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=537' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-415',
+    title: '骨盤',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '骨盤とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「骨盤」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=415' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-388',
+    title: '骨膜',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '骨膜とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「骨膜」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=388' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-483',
+    title: '５番',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '５番とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「５番」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=483' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-158',
+    title: 'ゴールを動かす',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'ゴールを動かすとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ゴールを動かす」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=158' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'contortion-365',
+    title: 'Contortion（コントーション）',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'Contortion（コントーション）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「Contortion（コントーション）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=365' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-136',
+    title: 'サイクル（クロック）',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'サイクル（クロック）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「サイクル（クロック）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=136' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-372',
+    title: 'サラダボール',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'サラダボールとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「サラダボール」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=372' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-611',
+    title: '自我',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '自我とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「自我」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=611' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-177',
+    title: '思考停止',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '思考停止とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「思考停止」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=177' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-535',
+    title: '四肢',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '四肢とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「四肢」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=535' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'system-system-626',
+    title: 'System1/System2',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'System1/System2とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「System1/System2」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=626' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-303',
+    title: 'シミ消し',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'シミ消しとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「シミ消し」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=303' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-296',
+    title: 'シャドウ',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'シャドウとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「シャドウ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=296' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-508',
+    title: '重感',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '重感とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「重感」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=508' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1298',
+    title: '重性の気',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '重性の気とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「重性の気」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1298' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-57',
+    title: '手根骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '手根骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「手根骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=57' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-606',
+    title: '重心を感じる',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '重心を感じるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「重心を感じる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=606' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-262',
+    title: '浄化',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '浄化とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「浄化」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=262' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-479',
+    title: '松果体',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '松果体とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「松果体」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=479' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-481',
+    title: '常在菌',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '常在菌とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「常在菌」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=481' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-30',
+    title: '踵骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '踵骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「踵骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=30' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-282',
+    title: '上丹田',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '上丹田とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「上丹田」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=282' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-270',
+    title: '情報場をみる',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '情報場をみるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「情報場をみる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=270' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-49',
+    title: '浄霊',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '浄霊とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「浄霊」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=49' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-286',
+    title: '視力回復',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '視力回復とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「視力回復」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=286' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-300',
+    title: 'シワ消し',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'シワ消しとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「シワ消し」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=300' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-116',
+    title: '人体の旅',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '人体の旅とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「人体の旅」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=116' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-494',
+    title: '神経系',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '神経系とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「神経系」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=494' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-68',
+    title: '身体の風水',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '身体の風水とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「身体の風水」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=68' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-154',
+    title: '水晶',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '水晶とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「水晶」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=154' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-513',
+    title: '水晶を読む',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '水晶を読むとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「水晶を読む」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=513' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1033',
+    title: '髄膜',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '髄膜とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「髄膜」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1033' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-195',
+    title: '数学の風景',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '数学の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「数学の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=195' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-592',
+    title: 'ズー音',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ズー音とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ズー音」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=592' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-531',
+    title: '頭蓋骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '頭蓋骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「頭蓋骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=531' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-74',
+    title: '姿•外見の調整',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '姿•外見の調整とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「姿•外見の調整」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=74' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-529',
+    title: '生理痛',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '生理痛とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「生理痛」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=529' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-361',
+    title: '絶望',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '絶望とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「絶望」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=361' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-328',
+    title: '仙骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '仙骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「仙骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=328' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-437',
+    title: '仙骨•骨盤',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '仙骨•骨盤とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「仙骨•骨盤」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=437' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-344',
+    title: '仙腸関節',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '仙腸関節とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「仙腸関節」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=344' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1300',
+    title: '増毛',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '増毛とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「増毛」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1300' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-130',
+    title: '速読',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '速読とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「速読」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=130' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-394',
+    title: '体液',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '体液とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「体液」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=394' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-709',
+    title: '大孔',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '大孔とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「大孔」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=709' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-340',
+    title: '大後頭孔',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '大後頭孔とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「大後頭孔」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=340' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-400',
+    title: 'ダ•ヴィンチ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ダ•ヴィンチとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ダ•ヴィンチ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=400' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'touch-428',
+    title: 'Touch',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'Touchとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「Touch」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=428' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-712',
+    title: 'タッチセラピー',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'タッチセラピーとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「タッチセラピー」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=712' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-614',
+    title: '魂',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '魂とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「魂」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=614' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-298',
+    title: 'チーク',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'チークとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「チーク」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=298' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-342',
+    title: '恥骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '恥骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「恥骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=342' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-199',
+    title: '知の風景',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '知の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「知の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=199' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-541',
+    title: '中枢神経',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '中枢神経とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「中枢神経」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=541' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-420',
+    title: '中足骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '中足骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「中足骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=420' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-280',
+    title: '中丹田',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '中丹田とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「中丹田」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=280' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1302',
+    title: '蝶形骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '蝶形骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「蝶形骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1302' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-502',
+    title: '爪',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '爪とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「爪」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=502' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-90',
+    title: '手首',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '手首とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「手首」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=90' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-197',
+    title: '哲学の風景',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '哲学の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「哲学の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=197' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1031',
+    title: '頭皮',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '頭皮とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「頭皮」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1031' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-152',
+    title: '動物霊',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '動物霊とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「動物霊」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=152' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-36',
+    title: 'ドーム',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ドームとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ドーム」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=36' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-140',
+    title: 'ドラキュラ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ドラキュラとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ドラキュラ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=140' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-229',
+    title: 'トリガー付け替え',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'トリガー付け替えとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「トリガー付け替え」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=229' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-108',
+    title: '内踝（ないか）',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '内踝（ないか）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「内踝（ないか）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=108' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-47',
+    title: '内反',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '内反とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「内反」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=47' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-97',
+    title: '中指',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '中指とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「中指」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=97' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-84',
+    title: '泣く女',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '泣く女とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「泣く女」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=84' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-435',
+    title: '肉離れ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '肉離れとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「肉離れ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=435' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-114',
+    title: 'ニューラルネットワーク',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'ニューラルネットワークとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ニューラルネットワーク」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=114' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-53',
+    title: '熱感',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '熱感とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「熱感」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=53' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-647',
+    title: '熱性の気',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '熱性の気とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「熱性の気」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=647' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-433',
+    title: '捻挫',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '捻挫とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「捻挫」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=433' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-221',
+    title: '脳幹',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '脳幹とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「脳幹」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=221' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-118',
+    title: '脳の旅',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '脳の旅とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「脳の旅」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=118' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-464',
+    title: '呪う',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '呪うとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「呪う」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=464' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1312',
+    title: '背筋をゆるめる',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '背筋をゆるめるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「背筋をゆるめる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1312' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-608',
+    title: 'ハイヤーセルフ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ハイヤーセルフとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ハイヤーセルフ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=608' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-148',
+    title: '箱庭',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '箱庭とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「箱庭」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=148' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-160',
+    title: '梯子（ウィトゲンシュタイン）',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '梯子（ウィトゲンシュタイン）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「梯子（ウィトゲンシュタイン）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=160' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-515',
+    title: 'はじめての気功',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'はじめての気功とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「はじめての気功」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=515' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-470',
+    title: 'バストアップ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'バストアップとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「バストアップ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=470' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-219',
+    title: 'ハート',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ハートとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ハート」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=219' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-294',
+    title: '鼻すじ',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '鼻すじとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「鼻すじ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=294' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-631',
+    title: 'バベル',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      'バベルとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「バベル」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=631' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-55',
+    title: 'バルブ（気を強くする）',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'バルブ（気を強くする）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「バルブ（気を強くする）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=55' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-274',
+    title: '半眼',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '半眼とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「半眼」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=274' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-384',
+    title: '反転',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '反転とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「反転」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=384' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-80',
+    title: '美脚',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美脚とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美脚」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=80' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-595',
+    title: '腓骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '腓骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「腓骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=595' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-348',
+    title: '尾骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '尾骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「尾骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=348' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-603',
+    title: '膝',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '膝とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「膝」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=603' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-315',
+    title: '美女ボディ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美女ボディとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美女ボディ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=315' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-183',
+    title: '非線形•不連続の風景',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '非線形•不連続の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「非線形•不連続の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=183' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-168',
+    title: 'ヒトラーの愛人',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ヒトラーの愛人とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ヒトラーの愛人」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=168' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-82',
+    title: '美白',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美白とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美白」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=82' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-317',
+    title: '美髪トリートメント',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美髪トリートメントとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美髪トリートメント」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=317' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-227',
+    title: '百会•ガス抜き',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '百会•ガス抜きとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「百会•ガス抜き」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=227' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-191',
+    title: '白毫合わせ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '白毫合わせとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「白毫合わせ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=191' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-307',
+    title: '美容整形•カオ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美容整形•カオとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美容整形•カオ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=307' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-313',
+    title: '美容整形•カラダ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美容整形•カラダとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美容整形•カラダ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=313' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1036',
+    title: '美容整形のフレーム',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美容整形のフレームとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美容整形のフレーム」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1036' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-457',
+    title: '美容整形•目で殺す',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '美容整形•目で殺すとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「美容整形•目で殺す」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=457' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-546',
+    title: 'ヒーラー',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ヒーラーとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ヒーラー」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=546' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-240',
+    title: 'ひらく',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ひらくとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ひらく」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=240' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-246',
+    title: 'ピンチアウト',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ピンチアウトとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ピンチアウト」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=246' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1310',
+    title: '腹筋をゆるめる',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '腹筋をゆるめるとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「腹筋をゆるめる」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1310' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-553',
+    title: 'フローティング',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'フローティングとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「フローティング」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=553' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-539',
+    title: '平滑筋•心筋',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '平滑筋•心筋とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「平滑筋•心筋」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=539' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-597',
+    title: 'ベスト',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ベストとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ベスト」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=597' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-378',
+    title: '骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=378' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-590',
+    title: '孫の手',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '孫の手とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「孫の手」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=590' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-543',
+    title: '末梢神経',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '末梢神経とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「末梢神経」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=543' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-496',
+    title: '麻痺',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '麻痺とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「麻痺」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=496' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-632',
+    title: 'マリア',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'マリアとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「マリア」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=632' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-477',
+    title: '水風船',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '水風船とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「水風船」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=477' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1306',
+    title: '水虫',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '水虫とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「水虫」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1306' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-144',
+    title: 'ミトコンドリア',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'ミトコンドリアとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ミトコンドリア」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=144' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-138',
+    title: '耳を開く',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '耳を開くとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「耳を開く」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=138' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-1308',
+    title: '観る',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '観るとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「観る」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1308' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-62',
+    title: '妙薬',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '妙薬とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「妙薬」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=62' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-402',
+    title: 'モビリティ',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'モビリティとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「モビリティ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=402' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-162',
+    title: 'ヤヌス',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ヤヌスとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ヤヌス」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=162' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-548',
+    title: '幽霊の手',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '幽霊の手とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「幽霊の手」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=548' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-330',
+    title: '腰仙関節',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '腰仙関節とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「腰仙関節」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=330' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-332',
+    title: '腰椎',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '腰椎とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「腰椎」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=332' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-164',
+    title: 'リヴァイアサン',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'リヴァイアサンとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「リヴァイアサン」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=164' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-627',
+    title: '立甲（りっこう）',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '立甲（りっこう）とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「立甲（りっこう）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=627' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'up-305',
+    title: 'リフトUP',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'リフトUPとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「リフトUP」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=305' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-492',
+    title: '臨場感2.0',
+    category: '理論体系',
+    updated: '2026年7月20日',
+    lead: [
+      '臨場感2.0とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「臨場感2.0」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=492' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-396',
+    title: 'リンパ気功',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      'リンパ気功とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「リンパ気功」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=396' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-88',
+    title: 'ルージュ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ルージュとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ルージュ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=88' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-650',
+    title: '冷性の気',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '冷性の気とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「冷性の気」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=650' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-533',
+    title: '肋骨•肩甲骨',
+    category: 'バレエ技法',
+    updated: '2026年7月20日',
+    lead: [
+      '肋骨•肩甲骨とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「肋骨•肩甲骨」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=533' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-374',
+    title: 'ワキ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ワキとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ワキ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=374' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'gijutsu-173',
+    title: 'ワープ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'ワープとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+    ],
+    infobox: [
+      { label: '分類', value: '気功技術・ワーク' },
+      { label: '出典', value: '本家Matopedia索引' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+        ],
+      },
+    ],
+    related: ['matoinoba', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「ワープ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=173' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
 ]
 
 export function getArticle(slug: string): WikiArticle | undefined {
