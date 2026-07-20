@@ -4,6 +4,8 @@ import MainPage from '@/pages/MainPage'
 import ArticlePage from '@/pages/ArticlePage'
 import IndexPage from '@/pages/IndexPage'
 import AboutPage from '@/pages/AboutPage'
+import EditorPage from '@/pages/EditorPage'
+import { ContributionsListPage, ContributionDetailPage } from '@/pages/ContributionsPage'
 import { CategoryListPage, CategoryPage, SearchPage } from '@/pages/CategoryPages'
 
 export default function App() {
@@ -17,6 +19,9 @@ export default function App() {
         <Route path="/category/:name" element={<CategoryPage />} />
         <Route path="/search" element={<SearchPage />} />
         <Route path="/about" element={<AboutPage />} />
+        <Route path="/edit" element={<EditorPage />} />
+        <Route path="/contributions" element={<ContributionsListPage />} />
+        <Route path="/contributions/:id" element={<ContributionDetailPage />} />
         <Route path="*" element={<MainPage />} />
       </Routes>
     </WikiLayout>

@@ -250,6 +250,25 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", sans-serif;
 }
 
+/* ---- 編集フォーム（有志編集） ---- */
+.wiki-form {
+  @apply border border-[#c8ccd1] bg-[#f8f9fa] rounded-sm p-5;
+}
+.wiki-form-label {
+  @apply block text-sm font-bold text-[#202122] mt-4 mb-1;
+}
+.wiki-form-input {
+  @apply block w-full mt-1 border border-[#a2a9b1] rounded-sm px-3 py-2 text-sm bg-white
+    font-normal focus:outline-none focus:border-[#3366cc] focus:ring-1 focus:ring-[#3366cc];
+}
+.wiki-form-btn {
+  @apply mt-4 inline-flex items-center gap-1 bg-[#3366cc] text-white text-sm font-bold
+    px-4 py-2 rounded-sm hover:bg-[#2a4b8d] disabled:opacity-50 transition-colors;
+}
+.wiki-form-msg {
+  @apply mt-3 text-sm text-[#ba0000];
+}
+
 /* ---- カテゴリバー・更新日時 ---- */
 .wiki-catbar {
   @apply border border-[#c8ccd1] bg-[#f8f9fa] rounded-sm px-3 py-1.5 text-[12px] text-[#54595d] mt-8;

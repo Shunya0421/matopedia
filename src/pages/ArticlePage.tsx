@@ -3,7 +3,6 @@ import { Link, useParams } from 'react-router'
 import { getArticle } from '@/data/articles'
 import { WikiText, WikiPara } from '@/components/WikiText'
 import { ExternalLink, Pencil, MessageSquarePlus } from 'lucide-react'
-import { githubEditUrl, githubIssueUrl } from '@/config'
 
 export default function ArticlePage() {
   const { slug } = useParams()
@@ -31,24 +30,12 @@ export default function ArticlePage() {
       <div className="wiki-article-head">
         <h1 className="wiki-h1">{article.title}</h1>
         <div className="wiki-editbar">
-          <a
-            href={githubEditUrl()}
-            target="_blank"
-            rel="noreferrer"
-            className="wiki-edit-btn"
-            title="GitHubでこの記事のソースを編集（要GitHubアカウント）"
-          >
+          <Link to="/edit" className="wiki-edit-btn" title="登録して記事を編集・追加">
             <Pencil size={13} /> 編集
-          </a>
-          <a
-            href={githubIssueUrl(article.title, article.slug)}
-            target="_blank"
-            rel="noreferrer"
-            className="wiki-edit-btn"
-            title="GitHubのIssueで修正を提案"
-          >
-            <MessageSquarePlus size={13} /> 修正を提案
-          </a>
+          </Link>
+          <Link to="/edit" className="wiki-edit-btn" title="新しい技術を追加">
+            <MessageSquarePlus size={13} /> 技術を追加
+          </Link>
         </div>
       </div>
       <p className="wiki-subtitle">
@@ -118,15 +105,9 @@ export default function ArticlePage() {
         <section key={i}>
           <h2 className="wiki-h2" id={`sec-${i + 1}`}>
             {s.heading}
-            <a
-              href={githubEditUrl()}
-              target="_blank"
-              rel="noreferrer"
-              className="wiki-section-edit"
-              title="このセクションを編集"
-            >
+            <Link to="/edit" className="wiki-section-edit" title="このセクションを編集">
               [編集]
-            </a>
+            </Link>
           </h2>
           {s.paras.map((p, j) => (
             <WikiPara key={j} text={p} />

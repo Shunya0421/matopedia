@@ -33,17 +33,18 @@ export default function AboutPage() {
         当サイトはWikipediaと同じく、<strong>有志による編集を歓迎</strong>します。誤りの修正・技術の追記・出典の追加などにご協力ください。
       </p>
       <p className="wiki-p">
-        編集は<strong>GitHub</strong>を通じて行います（無料アカウントが必要です）。各記事ページの右上にある
-        「<strong>編集</strong>」ボタンから記事のソースを直接編集して修正提案（プルリクエスト）を送るか、
-        「<strong>修正を提案</strong>」ボタンからIssue（修正提案フォーム）で内容をお知らせください。
-        内容は管理者がレビューした上で反映します。
+        編集は<strong>メールアドレスと氏名の登録</strong>で行えます。<Link to="/edit" className="wiki-link">編集ページ</Link>から
+        招待コードを入力して登録すると、新しい気功技術の記事を投稿できるようになります。
+        投稿は管理者が承認した後に公開されます。
       </p>
       <ul className="wiki-related">
-        <li><strong>編集</strong> ― 記事ソース（articles.ts）をGitHub上で直接編集。プルリクエストで提案できます</li>
-        <li><strong>修正を提案</strong> ― GitHubの知識がなくても、フォームに書くだけで提案できます</li>
+        <li><strong>1. 登録</strong> ― <Link to="/edit" className="wiki-link">編集ページ</Link>でメアド・氏名・招待コードを入力</li>
+        <li><strong>2. 投稿</strong> ― 技術名・概要・本文・出典をフォームに入力して送信</li>
+        <li><strong>3. 公開</strong> ― 管理者の承認後、サイトに掲載されます</li>
       </ul>
       <p className="wiki-p">
         編集にあたっては、独自の効果断言や出典のない創作は避け、できる限り出典（ブログ記事等）を明記してください。
+        招待コードは管理者にお問い合わせください。
       </p>
 
       <h2 className="wiki-h2">公式リンク</h2>

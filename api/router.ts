@@ -1,12 +1,9 @@
 import { createRouter, publicQuery } from "./middleware";
+import { wikiRouter } from "./routers/wiki";
 
 export const appRouter = createRouter({
   ping: publicQuery.query(() => ({ ok: true, ts: Date.now() })),
-
-  // TODO: add feature routers here, e.g.
-  // todo: createRouter({
-  //   list: publicQuery.query(() => findTodos()),
-  // }),
+  wiki: wikiRouter,
 });
 
 export type AppRouter = typeof appRouter;

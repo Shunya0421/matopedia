@@ -49,6 +49,14 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
         <div className="wiki-side-title">参加する</div>
         <ul className="wiki-side-list">
           <li>
+            <Link to="/edit" className="inline-flex items-center gap-1 font-bold">
+              編集に参加する
+            </Link>
+          </li>
+          <li>
+            <NavLink to="/contributions">みんなの投稿</NavLink>
+          </li>
+          <li>
             <Link to={`/wiki/${randomArticle()}`} className="inline-flex items-center gap-1">
               <Shuffle size={13} /> おまかせ表示
             </Link>
