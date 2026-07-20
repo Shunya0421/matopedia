@@ -2940,6 +2940,246 @@ export const articles: WikiArticle[] = [
     ],
   },
   {
+    slug: 'avatar',
+    title: 'アバター',
+    reading: 'アバター',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'アバターとは、自分の分身・影武者のような存在を作る気功技術である。本人の仕事を手伝わせて業務効率を上げたり、自分のアバターにヒーリングをしてもらったり、ヒーラーのアシスタントとしてヒーリングをサポートさせることができる。',
+      'また、サイキックアタックなどの際はアバターをおいて、本人は[[abstract-elevator|抽象度のエレベーター]]などで逃げることができる。',
+    ],
+    infobox: [
+      { label: '分類', value: '分身系気功技術' },
+      { label: 'トリガー', value: '[[ki-no-tama|気のたま]]に身代わりになるものを設定' },
+      { label: '用途', value: '業務効率化・ヒーリングサポート・身代わり' },
+      { label: '関連', value: '[[shikigami|式神]]・[[kekkai|結界]]' },
+    ],
+    sections: [
+      {
+        heading: '注意事項',
+        paras: [
+          'アバターをおいて上にあがったまま、降りてくるのが困難な事がある。また「箱庭アバター」で体調不良を起す事もあるとされる。',
+          'アバターは「結界・アバター」講座（2011年）で[[kekkai|結界]]とセットで伝授された、まといのばの代表的な防衛・分身技術である。',
+        ],
+      },
+    ],
+    related: ['shikigami', 'kekkai', 'abstract-elevator', 'ki-no-tama'],
+    sources: [
+      { label: 'MATOPEDIA「アバター」（本家matopedia.net）', url: 'https://web.archive.org/web/20170320112809/http://matopedia.net/?p=291' },
+      { label: '「結界・アバター」講座（2011年8月21日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-10940441981.html' },
+    ],
+  },
+  {
+    slug: 'shikigami',
+    title: '式神',
+    reading: 'しきがみ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '式神（しきがみ）とは、陰陽道の式神の技術を気功技術化したものである。[[avatar|アバター]]と同じ「結界・アバター」講座で伝授された分身系技術。',
+      'トリガーは「[[ki-no-tama|気の球]]をつくり、それに情報をかぶせる」。アバターが自分の分身であるのに対し、式神は使役する独立した存在として作られる。',
+    ],
+    infobox: [
+      { label: '読み', value: 'しきがみ' },
+      { label: '分類', value: '分身系・陰陽道系気功技術' },
+      { label: 'トリガー', value: '気の球に情報をかぶせる' },
+      { label: '関連', value: '[[avatar|アバター]]・[[monoimi|物忌]]' },
+    ],
+    sections: [
+      {
+        heading: '重要な心得',
+        paras: [
+          '「つくった式神は毎回仕事が終わったら消すように習慣化したほうがいい。ほっておくと勝手に成長して厄介なことになる」とされる。分身系技術の運用には、作った存在を適切に終了させる管理が不可欠とされる。',
+        ],
+      },
+    ],
+    related: ['avatar', 'monoimi', 'ki-no-tama', 'fuunyuu'],
+    sources: [
+      { label: 'MATOPEDIA「式神」（本家matopedia.net）', url: 'https://web.archive.org/web/20170319223302/http://matopedia.net/?p=181' },
+      { label: '「結界・アバター」講座（2011年8月21日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-10940441981.html' },
+    ],
+  },
+  {
+    slug: 'iron-no-te',
+    title: 'アイロンの手',
+    reading: 'アイロンのて',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      'アイロンの手（アイロンのて）とは、手がアイロンになり、それで患部を温めることで深くゆるめる気功技術である。「筋肉」技術とほぼ同じとされる。',
+      'トリガーは「アイロンの手」と唱えて患部を温める。シンプルな技術だが「地味に応用自在」で、内臓などにも効果的とされる。',
+    ],
+    infobox: [
+      { label: '分類', value: '温熱系気功技術' },
+      { label: 'トリガー', value: '「アイロンの手」と唱える' },
+      { label: 'ポイント', value: 'じわっと熱くしていく' },
+      { label: '記事執筆', value: 'Ray-matoinoba' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          'アイロンで布のシワを伸ばすように、温めながら患部を深くゆるめる。内臓にも応用できる汎用性の高さが特徴。',
+          '本家Matopediaでは「重い手」「泉（エアーハンドグリップ）」と並ぶ「手」のバリエーション技術の一つとして分類されている。',
+        ],
+      },
+    ],
+    related: ['katanden', 'roukyuu', 'kikou-seitai'],
+    sources: [
+      { label: 'MATOPEDIA「アイロンの手」（本家matopedia.net）', url: 'https://web.archive.org/web/20170319221521/http://matopedia.net/?p=519' },
+    ],
+  },
+  {
+    slug: 'izumi-airhandgrip',
+    title: '泉（エアーハンドグリップ）',
+    reading: 'いずみ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '泉（いずみ）とは、「若さの泉」とも呼ばれ、身体内のミトコンドリアを活性化して身体を若返らせる気功技術である。エアーハンドグリップという別名を持つ。',
+      'トリガーは、ハンドグリップ（握力器）を握る時のように、手の平で握る動作を行うこと。',
+    ],
+    infobox: [
+      { label: '分類', value: '若返り系気功技術' },
+      { label: '別名', value: '若さの泉・エアーハンドグリップ' },
+      { label: '対象', value: 'ミトコンドリアの活性化' },
+      { label: 'トリガー', value: 'ハンドグリップを握る動作' },
+    ],
+    sections: [
+      {
+        heading: '筋トレではない',
+        paras: [
+          '筋肉がパンプアップされるように感じるが、実際には筋肉トレーニングとは異なる。「筋肉がゆるんで正しい位置にいくことにより、立体感のある美しい筋肉が生まれる」とされる。',
+          '握る動作時の指先は、できるだけ小さな動きで、力まないように動かすのがコツ。「アンチエイジングの真実」講座（2011年）で伝授された。',
+        ],
+      },
+    ],
+    related: ['wakagaeri-no-izumi', 'silver', 'genkidama', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「泉（=エアーハンドグリップ）」（本家matopedia.net）', url: 'https://web.archive.org/web/20170321125944/http://matopedia.net/?p=704' },
+      { label: '「アンチエイジングの真実」講座（2011年9月1日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-11011882292.html' },
+    ],
+  },
+  {
+    slug: 'saishu-reiki',
+    title: '最終レイキ',
+    reading: 'さいしゅうレイキ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '最終レイキ（さいしゅうレイキ）とは、レイキのパワーを痛感させるための気功技術である。トリガーは「レイキ」と唱えながら、カタカナで手で「レイキ」と書く。',
+      'もともとは「レイキがいかにパワーが無いかを示すためだけの気功技術だった」のだが、本職のレイキの人に驚かれることが多いとされる。「レイキの入れ替えに使える技術」とも評される。',
+    ],
+    infobox: [
+      { label: '分類', value: 'レイキ系気功技術' },
+      { label: 'トリガー', value: 'レイキと唱え、カタカナで手に書く' },
+      { label: '関連講座', value: 'ヒーラー養成スクール第6期「人体の旅」' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          'まといのばは[[zengijutsu-nuki|全技術抜き]]で他団体の技術を「抜く」立場を取るが、最終レイキは逆にレイキの力を体感させることで、その限界を示すという逆説的な位置づけを持つ。ヒーラー養成スクール第6期「人体の旅」（2012年）で扱われた。',
+        ],
+      },
+    ],
+    related: ['zengijutsu-nuki', 'kikou', 'denju'],
+    sources: [
+      { label: 'MATOPEDIA「最終レイキ」（本家matopedia.net）', url: 'https://web.archive.org/web/20170319184654/http://matopedia.net/?p=217' },
+    ],
+  },
+  {
+    slug: 'kuroi-noukan',
+    title: '黒い脳幹',
+    reading: 'くろいのうかん',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '黒い脳幹（くろいのうかん）とは、「鬱講座」（ストレスマネジメントと鬱病対策講座）でのみ配布された実験的な技術で、鬱を自分に再現させるための技術である。',
+      '「非常に危険な技術なので、内容もトリガーも非公開。セミナー参加者にのみ公開した」とされ、本家Matopediaでも詳細は伏せられている。',
+    ],
+    infobox: [
+      { label: '分類', value: '実験的・危険技術（非公開）' },
+      { label: '目的', value: '鬱を自分に再現させる' },
+      { label: '公開範囲', value: '鬱講座参加者のみ' },
+      { label: '関連講座', value: 'ストレスマネジメントと鬱病対策' },
+    ],
+    sections: [
+      {
+        heading: 'なぜ鬱を再現するのか',
+        paras: [
+          'ヒーラーが鬱の状態を深く理解するために、自らその状態を再現的に体験するという、きわめて特殊な目的を持つ。ゆえに「非常に危険な技術」と明記され、トリガーは非公開とされた。',
+          '2012年10月31日に本家Matopediaに登録された、同サイトの数少ない「内容非公開」技術の一つである。',
+        ],
+      },
+    ],
+    related: ['kikou', 'hensei-ishiki', 'rapport'],
+    sources: [
+      { label: 'MATOPEDIA「黒い脳幹」（本家matopedia.net）', url: 'https://web.archive.org/web/20161028153916/http://matopedia.net/?p=1429' },
+      { label: '「ストレスマネジメントと鬱病対策」講座（アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-10940251214.html' },
+    ],
+  },
+  {
+    slug: 'bikotsu-kundalini',
+    title: '尾骨クンダリーニ',
+    reading: 'びこつクンダリーニ',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '尾骨クンダリーニ（びこつクンダリーニ）とは、尾骨を触れることで[[kundalini|クンダリーニ]]の体感を強める技術である。トリガーは単純に「尾骨に触れる」。',
+      'クライアントに施術するときなど尾骨に触れられないときは、仙骨や腰裏で代替させても良い。ただし「練習のときはきちんと尾骨に触れる癖をつけておく」とされる。',
+    ],
+    infobox: [
+      { label: '分類', value: 'クンダリーニ系補助技術' },
+      { label: 'トリガー', value: '尾骨に触れる' },
+      { label: '代替部位', value: '仙骨・腰裏' },
+      { label: '関連', value: '[[kundalini|クンダリーニ]]・[[shoshuten|小周天]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          'クンダリーニの起点が尾骨（骨盤の最下部）にあるという身体観に基づく、体感強化のための触覚トリガー技術。シークレットセミナーのコンテンツ「抽象度」の関連技術として2012年に登録された。',
+        ],
+      },
+    ],
+    related: ['kundalini', 'chakra', 'abstract-elevator'],
+    sources: [
+      { label: 'MATOPEDIA「尾骨クンダリーニ」（本家matopedia.net）', url: 'https://web.archive.org/web/20161028150221/http://matopedia.net/?p=1315' },
+      { label: 'シークレットセミナーのコンテンツは「抽象度」（2012年10月20日・アメブロ）', url: 'https://ameblo.jp/matoinoba/entry-11386418774.html' },
+    ],
+  },
+  {
+    slug: 'kuroi-kekkai',
+    title: '黒い結界',
+    reading: 'くろいけっかい',
+    category: '気功技術',
+    updated: '2026年7月20日',
+    lead: [
+      '黒い結界（くろいけっかい）とは、通常の[[kekkai|結界]]の上位・特殊版として存在する防御技術である。本家Matopediaの索引に項目として存在し、陰陽道・咒の系譜に連なる「黒」系列の技術の一つ。',
+      '「黒い脳幹」「ドラキュラ」「呪う」などと並ぶ、いわゆる「黒い」技術群に分類される。',
+    ],
+    infobox: [
+      { label: '分類', value: '防御系・黒系列気功技術' },
+      { label: '母技術', value: '[[kekkai|結界]]' },
+      { label: '系列', value: '黒い脳幹・ドラキュラ・呪う' },
+      { label: '関連', value: '[[shu-no-mikkyou|咒の密教気功]]' },
+    ],
+    sections: [
+      {
+        heading: '概要',
+        paras: [
+          '本家索引に「黒い結界」として独立項目が存在する。詳細は講座内での伝授が中心で、ブログ・Matopedia上では名称と分類のみが確認できる。',
+        ],
+      },
+    ],
+    related: ['kekkai', 'kuroi-noukan', 'shu-no-mikkyou', 'avatar'],
+    sources: [
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
     slug: 'denju',
     title: '伝授',
     reading: 'でんじゅ',
