@@ -15,6 +15,10 @@ export default function MainPage() {
         <Link to="/wiki/matoinoba" className="wiki-link">「まといのば」</Link>
         のブログに散らばる気功技術・バレエ技法・心の理論を、百科事典形式でまとめた非公式ファンサイトです。
         現在 <strong>{articles.length}</strong> 件の記事を収録しています。
+        <span className="block mt-1.5 text-[#3366cc]">
+          このサイトは有志編集を歓迎しています。各記事の「編集」「修正を提案」ボタンからご参加ください（
+          <Link to="/about" className="wiki-link">詳しくはこちら</Link>）。
+        </span>
       </div>
 
       <div className="grid md:grid-cols-2 gap-4 mt-5">

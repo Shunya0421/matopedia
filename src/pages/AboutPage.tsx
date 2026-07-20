@@ -28,6 +28,24 @@ export default function AboutPage() {
         施術・講座の最新情報（料金・日程等）は必ず公式ブログ・公式予約フォームで確認してください。
       </p>
 
+      <h2 className="wiki-h2">有志編集について</h2>
+      <p className="wiki-p">
+        当サイトはWikipediaと同じく、<strong>有志による編集を歓迎</strong>します。誤りの修正・技術の追記・出典の追加などにご協力ください。
+      </p>
+      <p className="wiki-p">
+        編集は<strong>GitHub</strong>を通じて行います（無料アカウントが必要です）。各記事ページの右上にある
+        「<strong>編集</strong>」ボタンから記事のソースを直接編集して修正提案（プルリクエスト）を送るか、
+        「<strong>修正を提案</strong>」ボタンからIssue（修正提案フォーム）で内容をお知らせください。
+        内容は管理者がレビューした上で反映します。
+      </p>
+      <ul className="wiki-related">
+        <li><strong>編集</strong> ― 記事ソース（articles.ts）をGitHub上で直接編集。プルリクエストで提案できます</li>
+        <li><strong>修正を提案</strong> ― GitHubの知識がなくても、フォームに書くだけで提案できます</li>
+      </ul>
+      <p className="wiki-p">
+        編集にあたっては、独自の効果断言や出典のない創作は避け、できる限り出典（ブログ記事等）を明記してください。
+      </p>
+
       <h2 className="wiki-h2">公式リンク</h2>
       <ul className="wiki-related">
         <li><a className="wiki-link" href="https://ameblo.jp/matoinoba/" target="_blank" rel="noreferrer">気功師から見たバレエとヒーリングのコツ～「まといのば」ブログ</a></li>
