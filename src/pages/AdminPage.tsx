@@ -1,7 +1,7 @@
 import { useState, type FormEvent } from 'react'
 import { Link } from 'react-router'
 import { trpc } from '@/providers/trpc'
-import { ShieldCheck, CheckCircle2, XCircle, LogOut, Clock, Users, FileCheck, FileX } from 'lucide-react'
+import { ShieldCheck, CheckCircle2, XCircle, LogOut, Clock, Users, FileCheck, FileX, Trash2, UserX } from 'lucide-react'
 
 const ADMIN_KEY = 'matopedia_admin_token'
 
@@ -70,7 +70,7 @@ function ContributionCard({
           <div className="whitespace-pre-wrap mt-1 text-sm">{c.sources}</div>
         </details>
       )}
-      <div className="flex gap-2 mt-3">
+      <div className="flex flex-wrap gap-2 mt-3 items-center">
         <button
           className="wiki-form-btn inline-flex items-center gap-1"
           onClick={() => act('publish')}
@@ -85,6 +85,7 @@ function ContributionCard({
         >
           <XCircle size={14} /> 却下する
         </button>
+        <DeleteButton id={c.id} title={c.title} token={token} onDone={onDone} />
       </div>
     </article>
   )
@@ -221,7 +222,7 @@ export default function AdminPage() {
           {published.length > 0 && (
             <table className="wiki-table">
               <thead>
-                <tr><th>記事</th><th className="w-28">投稿者</th><th className="w-28">公開日</th><th className="w-24">操作</th></tr>
+                <tr><th>記事</th><th className="w-28">投稿者</th><th className="w-28">公開日</th><th className="w-32">操作</th></tr>
               </thead>
               <tbody>
                 {published.map((c) => (
@@ -229,8 +230,10 @@ export default function AdminPage() {
                     <td><Link to={`/contributions/${c.id}`} className="wiki-link font-bold">{c.title}</Link></td>
                     <td className="text-sm">{c.editorName}</td>
                     <td className="text-sm">{fmtDate(c.createdAt)}</td>
-                    <td>
+                    <td className="whitespace-nowrap">
                       <RejectButton c={c} token={token} onDone={refetchAll} />
+                      <span className="mx-1 text-[#a2a9b1]">|</span>
+                      <DeleteButton id={c.id} title={c.title} token={token} onDone={refetchAll} />
                     </td>
                   </tr>
                 ))}
@@ -255,7 +258,7 @@ export default function AdminPage() {
           {editorRows.length > 0 && (
             <table className="wiki-table">
               <thead>
-                <tr><th>氏名</th><th>メールアドレス</th><th className="w-28">状態</th><th className="w-28">登録日</th></tr>
+                <tr><th>氏名</th><th>メールアドレス</th><th className="w-28">状態</th><th className="w-28">登録日</th><th className="w-20">操作</th></tr>
               </thead>
               <tbody>
                 {editorRows.map((e) => (
@@ -264,6 +267,9 @@ export default function AdminPage() {
                     <td className="text-sm">{e.email}</td>
                     <td className="text-sm">{e.status === 'approved' ? '承認済み' : e.status}</td>
                     <td className="text-sm">{fmtDate(e.createdAt)}</td>
+                    <td>
+                      <RemoveEditorButton e={e} token={token} onDone={() => { editorsQ.refetch(); refetchAll() }} />
+                    </td>
                   </tr>
                 ))}
               </tbody>
@@ -272,6 +278,40 @@ export default function AdminPage() {
         </>
       )}
     </div>
+  )
+}
+
+function DeleteButton({ id, title, token, onDone }: { id: number; title: string; token: string; onDone: () => void }) {
+  const del = trpc.wiki.deleteContribution.useMutation()
+  return (
+    <button
+      className="text-sm text-[#a94442] underline inline-flex items-center gap-1 ml-auto"
+      disabled={del.isPending}
+      onClick={async () => {
+        if (!window.confirm(`「${title}」を完全に削除しますか？この操作は取り消せません。`)) return
+        await del.mutateAsync({ adminToken: token, id })
+        onDone()
+      }}
+    >
+      <Trash2 size={13} /> 削除
+    </button>
+  )
+}
+
+function RemoveEditorButton({ e, token, onDone }: { e: EditorRow; token: string; onDone: () => void }) {
+  const remove = trpc.wiki.removeEditor.useMutation()
+  return (
+    <button
+      className="text-sm text-[#a94442] underline inline-flex items-center gap-1"
+      disabled={remove.isPending}
+      onClick={async () => {
+        if (!window.confirm(`${e.name}（${e.email}）を編集者から除名しますか？\nその人の投稿もすべて削除されます。`)) return
+        await remove.mutateAsync({ adminToken: token, id: e.id })
+        onDone()
+      }}
+    >
+      <UserX size={13} /> 除名
+    </button>
   )
 }
 

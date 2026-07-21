@@ -191,4 +191,28 @@ export const wikiRouter = createRouter({
         .where(eq(contributions.id, input.id));
       return { ok: true };
     }),
+
+  // 投稿の削除（管理者・完全削除）
+  deleteContribution: publicQuery
+    .input(z.object({ adminToken: z.string(), id: z.number() }))
+    .mutation(async ({ input }) => {
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
+      const db = getDb();
+      await db.delete(contributions).where(eq(contributions.id, input.id));
+      return { ok: true };
+    }),
+
+  // 編集者の削除（管理者・その人の投稿もすべて削除）
+  removeEditor: publicQuery
+    .input(z.object({ adminToken: z.string(), id: z.number() }))
+    .mutation(async ({ input }) => {
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
+      const db = getDb();
+      const rows = await db.select().from(editors).where(eq(editors.id, input.id)).limit(1);
+      const ed = rows[0];
+      if (!ed) throw new Error("編集者が見つかりません");
+      await db.delete(contributions).where(eq(contributions.editorId, ed.token));
+      await db.delete(editors).where(eq(editors.id, input.id));
+      return { ok: true };
+    }),
 });
