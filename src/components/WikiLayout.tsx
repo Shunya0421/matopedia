@@ -81,11 +81,7 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
               Rayまといのば（アメブロ）<ExternalLink size={11} />
             </a>
           </li>
-          <li>
-            <a href="https://matoinoba.themedia.jp/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-1">
-              公式ポータルサイト<ExternalLink size={11} />
-            </a>
-          </li>
+
         </ul>
       </div>
     </>

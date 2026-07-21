@@ -100,7 +100,6 @@ export const articles: WikiArticle[] = [
     related: ['kikou-seitai', 'training-chain', 'ray-matoinoba', 'mba', 'daikei-model'],
     sources: [
       { label: '気功師から見たバレエとヒーリングのコツ～「まといのば」ブログ（アメブロ）', url: 'https://ameblo.jp/matoinoba/' },
-      { label: '四ツ谷のバレリーナ専門気功整体「まといのば」ポータルサイト', url: 'https://matoinoba.themedia.jp/' },
       { label: '「まといのば」プロフィールページ（Ameba）', url: 'https://www.ameba.jp/profile/general/matoinoba/' },
       { label: 'YouTubeチャンネル（的射場史彦）', url: 'https://www.youtube.com/c/%E7%9A%84%E5%B0%84%E5%A0%B4%E5%8F%B2%E5%BD%A6/playlists' },
     ],

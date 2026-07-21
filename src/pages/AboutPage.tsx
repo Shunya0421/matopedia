@@ -51,7 +51,6 @@ export default function AboutPage() {
       <ul className="wiki-related">
         <li><a className="wiki-link" href="https://ameblo.jp/matoinoba/" target="_blank" rel="noreferrer">気功師から見たバレエとヒーリングのコツ～「まといのば」ブログ</a></li>
         <li><a className="wiki-link" href="https://ameblo.jp/ray-matoinoba/" target="_blank" rel="noreferrer">四ツ谷のバレリーナ専門気功整体「Rayまといのば」</a></li>
-        <li><a className="wiki-link" href="https://matoinoba.themedia.jp/" target="_blank" rel="noreferrer">四ツ谷のバレリーナ専門気功整体「まといのば」ポータルサイト</a></li>
         <li><a className="wiki-link" href="https://nlatdfqsgitl1vy2l2aa.stores.jp/reserve/matoinoba" target="_blank" rel="noreferrer">予約フォーム（STORES）</a></li>
       </ul>
     </div>
