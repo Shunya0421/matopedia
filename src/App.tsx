@@ -6,6 +6,7 @@ import IndexPage from '@/pages/IndexPage'
 import AboutPage from '@/pages/AboutPage'
 import EditorPage from '@/pages/EditorPage'
 import { ContributionsListPage, ContributionDetailPage } from '@/pages/ContributionsPage'
+import AdminPage from '@/pages/AdminPage'
 import { CategoryListPage, CategoryPage, SearchPage } from '@/pages/CategoryPages'
 
 export default function App() {
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="/edit" element={<EditorPage />} />
         <Route path="/contributions" element={<ContributionsListPage />} />
         <Route path="/contributions/:id" element={<ContributionDetailPage />} />
+        <Route path="/admin" element={<AdminPage />} />
         <Route path="*" element={<MainPage />} />
       </Routes>
     </WikiLayout>

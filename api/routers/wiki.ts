@@ -5,10 +5,11 @@ import { editors, contributions } from "@db/schema";
 import { eq } from "drizzle-orm";
 import { randomBytes } from "crypto";
 
-// 招待コード（環境変数 INVITE_CODE で上書き可能。既定は 'matopedia'）
-const INVITE_CODE = process.env.INVITE_CODE ?? "matopedia";
+// 招待コード（環境変数 INVITE_CODE で上書き可能。既定は開発用）
+// ※dotenv の読み込み完了後に評価されるよう、モジュールスコープではなく都度読む
+const getInviteCode = () => process.env.INVITE_CODE ?? "matopedia";
 // 管理者トークン（承認操作用。環境変数 ADMIN_TOKEN で上書き。既定は開発用）
-const ADMIN_TOKEN = process.env.ADMIN_TOKEN ?? "admin-secret";
+const getAdminToken = () => process.env.ADMIN_TOKEN ?? "admin-secret";
 
 const registerInput = z.object({
   email: z.string().email(),
@@ -37,7 +38,7 @@ export const wikiRouter = createRouter({
   register: publicQuery
     .input(registerInput)
     .mutation(async ({ input }) => {
-      if (input.inviteCode !== INVITE_CODE) {
+      if (input.inviteCode !== getInviteCode()) {
         throw new Error("招待コードが正しくありません");
       }
       const db = getDb();
@@ -136,12 +137,40 @@ export const wikiRouter = createRouter({
   pending: publicQuery
     .input(z.object({ adminToken: z.string() }))
     .query(async ({ input }) => {
-      if (input.adminToken !== ADMIN_TOKEN) throw new Error("権限がありません");
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
       const db = getDb();
       return db
         .select()
         .from(contributions)
         .where(eq(contributions.status, "pending"));
+    }),
+
+  // 却下済み一覧（管理者）
+  rejected: publicQuery
+    .input(z.object({ adminToken: z.string() }))
+    .query(async ({ input }) => {
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
+      const db = getDb();
+      return db
+        .select()
+        .from(contributions)
+        .where(eq(contributions.status, "rejected"));
+    }),
+
+  // 編集者一覧（管理者。トークンは返さない）
+  editors: publicQuery
+    .input(z.object({ adminToken: z.string() }))
+    .query(async ({ input }) => {
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
+      const db = getDb();
+      const rows = await db.select().from(editors);
+      return rows.map((e) => ({
+        id: e.id,
+        email: e.email,
+        name: e.name,
+        status: e.status,
+        createdAt: e.createdAt,
+      }));
     }),
 
   // 承認/却下（管理者）
@@ -154,7 +183,7 @@ export const wikiRouter = createRouter({
       })
     )
     .mutation(async ({ input }) => {
-      if (input.adminToken !== ADMIN_TOKEN) throw new Error("権限がありません");
+      if (input.adminToken !== getAdminToken()) throw new Error("権限がありません");
       const db = getDb();
       await db
         .update(contributions)
