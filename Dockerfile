@@ -3,7 +3,7 @@ FROM node:20-slim AS build
 WORKDIR /app
 
 COPY package.json package-lock.json ./
-RUN npm ci
+RUN npm ci --include=dev
 
 COPY . .
 # 本番用の秘密情報は .env ではなく環境変数で注入するため、ローカル用 .env は除外
