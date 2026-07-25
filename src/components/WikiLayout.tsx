@@ -28,7 +28,11 @@ function SearchBox({ compact = false }: { compact?: boolean }) {
 
 export default function WikiLayout({ children }: { children: ReactNode }) {
   const [menuOpen, setMenuOpen] = useState(false)
-  const randomArticle = () => articles[Math.floor(Math.random() * articles.length)].slug
+  const navigate = useNavigate()
+  const goToRandomArticle = () => {
+    const slug = articles[Math.floor(Math.random() * articles.length)].slug
+    navigate(`/wiki/${slug}`)
+  }
 
   const nav = (
     <>
@@ -57,9 +61,13 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
             <NavLink to="/contributions">みんなの投稿</NavLink>
           </li>
           <li>
-            <Link to={`/wiki/${randomArticle()}`} className="inline-flex items-center gap-1">
+            <button
+              type="button"
+              onClick={goToRandomArticle}
+              className="inline-flex items-center gap-1 text-[#3366cc] hover:underline"
+            >
               <Shuffle size={13} /> おまかせ表示
-            </Link>
+            </button>
           </li>
           <li>
             <Link to="/wiki/matoinoba" className="inline-flex items-center gap-1">
@@ -116,7 +124,7 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
         {/* サイドバー */}
         <aside className="wiki-sidebar hidden md:block">{nav}</aside>
         {menuOpen && (
-          <div className="md:hidden border-b border-[#a2a9b1] bg-white p-3">{nav}</div>
+          <div className="md:hidden w-full border-b border-[#a2a9b1] bg-white p-3">{nav}</div>
         )}
 
         {/* 本文 */}

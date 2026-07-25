@@ -1,8 +1,6 @@
 import { Link } from 'react-router'
-import { articles, CATEGORIES, getByCategory, stripMarkup } from '@/data/articles'
-import { ArrowRight, BookMarked, Sparkles } from 'lucide-react'
-
-const FEATURED = ['matoinoba', 'training-chain', 'kiseki-no-tsumasaki', 'bihada-cream', 'fuunyuu', 'kassai', 'abstract-elevator', 'daikei-model']
+import { articles, CATEGORIES, getByCategory } from '@/data/articles'
+import { ArrowRight, BookMarked } from 'lucide-react'
 
 export default function MainPage() {
   return (
@@ -22,50 +20,30 @@ export default function MainPage() {
         </span>
       </div>
 
-      <div className="grid md:grid-cols-2 gap-4 mt-5">
-        {/* 注目の記事 */}
-        <section className="wiki-portal">
-          <h2 className="wiki-portal-title flex items-center gap-2">
-            <Sparkles size={16} className="text-[#705000]" /> 秀逸な記事
-          </h2>
-          <ul className="wiki-portal-list">
-            {FEATURED.map((slug) => {
-              const a = articles.find((x) => x.slug === slug)!
-              return (
-                <li key={slug}>
-                  <Link to={`/wiki/${a.slug}`} className="wiki-link font-bold">{a.title}</Link>
-                  <span className="text-[#54595d] text-sm"> ― {stripMarkup(a.lead[0]).slice(0, 46)}…</span>
-                </li>
-              )
-            })}
-          </ul>
-        </section>
-
-        {/* カテゴリ */}
-        <section className="wiki-portal">
-          <h2 className="wiki-portal-title flex items-center gap-2">
-            <BookMarked size={16} className="text-[#705000]" /> カテゴリから探す
-          </h2>
-          <ul className="wiki-portal-list">
-            {CATEGORIES.map((cat) => (
-              <li key={cat}>
-                <Link to={`/category/${encodeURIComponent(cat)}`} className="wiki-link font-bold">
-                  {cat}
-                </Link>
-                <span className="text-[#54595d] text-xs ml-1">（{getByCategory(cat).length}件）</span>
-                <div className="text-xs mt-0.5 leading-relaxed">
-                  {getByCategory(cat).map((a, i) => (
-                    <span key={a.slug}>
-                      {i > 0 && <span className="text-[#a2a9b1] mx-1">・</span>}
-                      <Link to={`/wiki/${a.slug}`} className="wiki-link">{a.title}</Link>
-                    </span>
-                  ))}
-                </div>
-              </li>
-            ))}
-          </ul>
-        </section>
-      </div>
+      {/* カテゴリ */}
+      <section className="wiki-portal mt-5">
+        <h2 className="wiki-portal-title flex items-center gap-2">
+          <BookMarked size={16} className="text-[#705000]" /> カテゴリから探す
+        </h2>
+        <ul className="wiki-portal-list">
+          {CATEGORIES.map((cat) => (
+            <li key={cat}>
+              <Link to={`/category/${encodeURIComponent(cat)}`} className="wiki-link font-bold">
+                {cat}
+              </Link>
+              <span className="text-[#54595d] text-xs ml-1">（{getByCategory(cat).length}件）</span>
+              <div className="text-xs mt-0.5 leading-relaxed">
+                {getByCategory(cat).map((a, i) => (
+                  <span key={a.slug}>
+                    {i > 0 && <span className="text-[#a2a9b1] mx-1">・</span>}
+                    <Link to={`/wiki/${a.slug}`} className="wiki-link">{a.title}</Link>
+                  </span>
+                ))}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
 
       {/* 数字で見る */}
       <section className="wiki-portal mt-4">
