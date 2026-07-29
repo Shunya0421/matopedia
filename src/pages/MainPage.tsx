@@ -45,24 +45,6 @@ export default function MainPage() {
         </ul>
       </section>
 
-      {/* 数字で見る */}
-      <section className="wiki-portal mt-4">
-        <h2 className="wiki-portal-title">数字で見る「まといのば」</h2>
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mt-2">
-          {[
-            { n: '2011年', d: 'アメブロ開設・スプーン曲げシリーズ開始' },
-            { n: '2017年', d: 'MBA（まといのばバレエアカデミー）開校' },
-            { n: '3,000件超', d: 'ブログ記事数（テーマ別合計）' },
-            { n: '2026年', d: 'シン・気功Club 発足' },
-          ].map((s) => (
-            <div key={s.n} className="wiki-stat">
-              <div className="wiki-stat-n">{s.n}</div>
-              <div className="wiki-stat-d">{s.d}</div>
-            </div>
-          ))}
-        </div>
-      </section>
-
       {/* 全記事への導線 */}
       <div className="mt-5 text-right">
         <Link to="/index" className="wiki-link inline-flex items-center gap-1 font-bold">
