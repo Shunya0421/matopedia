@@ -11,7 +11,7 @@ export default function MainPage() {
       <div className="wiki-notice">
         <strong>まといのば気功技術大百科（Matopedia）</strong>は、東京・四ツ谷のバレリーナ専門気功整体
         <Link to="/wiki/matoinoba" className="wiki-link">「まといのば」</Link>
-        のブログに散らばる気功技術・バレエ技法・心の理論を、百科事典形式でまとめた非公式ファンサイトです。
+        のブログの気功技術を百科事典形式でまとめた百科事典サイトです。
         現在 <strong>{articles.length}</strong> 件の記事を収録しています。
         <span className="block mt-1.5 text-[#3366cc]">
           このサイトは有志編集を歓迎しています。各記事の「編集」「技術を追加」ボタンからご参加ください（

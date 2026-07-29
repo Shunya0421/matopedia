@@ -132,13 +132,6 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
       </div>
 
       <footer className="wiki-footer">
-        <p>
-          当サイトは、バレリーナ専門気功整体「まといのば」のブログ等の公開情報をもとに有志が編纂した<strong>非公式ファン百科事典</strong>であり、
-          「まといのば」公式とは一切関係ありません。記述の正確性は保証されません。
-        </p>
-        <p>
-          気功・ヒーリングの効果は科学的に実証されたものではなく、医療行為ではありません。体調に不安のある方は医療機関にご相談ください。
-        </p>
         <p className="mt-2 text-[#72777d]">まといのば気功技術大百科（Matopedia） － 全 {articles.length} 記事</p>
       </footer>
     </div>
