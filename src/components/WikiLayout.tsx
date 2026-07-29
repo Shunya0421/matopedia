@@ -1,6 +1,6 @@
 import { useState, type ReactNode, type FormEvent } from 'react'
 import { Link, NavLink, useNavigate } from 'react-router'
-import { Search, BookOpen, Shuffle, Menu, X, ExternalLink } from 'lucide-react'
+import { Search, Shuffle, Menu, X, ExternalLink } from 'lucide-react'
 import { articles } from '@/data/articles'
 
 function SearchBox({ compact = false }: { compact?: boolean }) {
@@ -68,11 +68,6 @@ export default function WikiLayout({ children }: { children: ReactNode }) {
             >
               <Shuffle size={13} /> おまかせ表示
             </button>
-          </li>
-          <li>
-            <Link to="/wiki/matoinoba" className="inline-flex items-center gap-1">
-              <BookOpen size={13} /> 秀逸な記事：まといのば
-            </Link>
           </li>
         </ul>
       </div>
