@@ -6,8 +6,13 @@ import { eq } from "drizzle-orm";
 import { randomBytes } from "crypto";
 
 // 招待コード（環境変数 INVITE_CODE で上書き可能。既定は開発用）
+// カンマ区切りで複数の招待コードを同時に有効にできる（例: "code1,code2"）
 // ※dotenv の読み込み完了後に評価されるよう、モジュールスコープではなく都度読む
-const getInviteCode = () => process.env.INVITE_CODE ?? "matopedia";
+const getInviteCodes = () =>
+  (process.env.INVITE_CODE ?? "matopedia")
+    .split(",")
+    .map((c) => c.trim())
+    .filter(Boolean);
 // 管理者トークン（承認操作用。環境変数 ADMIN_TOKEN で上書き。既定は開発用）
 const getAdminToken = () => process.env.ADMIN_TOKEN ?? "admin-secret";
 
@@ -38,7 +43,7 @@ export const wikiRouter = createRouter({
   register: publicQuery
     .input(registerInput)
     .mutation(async ({ input }) => {
-      if (input.inviteCode !== getInviteCode()) {
+      if (!getInviteCodes().includes(input.inviteCode)) {
         throw new Error("招待コードが正しくありません");
       }
       const db = getDb();
