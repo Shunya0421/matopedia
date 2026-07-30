@@ -261,7 +261,7 @@ export const articles: WikiArticle[] = [
     category: '意識と精神',
     updated: '2026年7月20日',
     lead: [
-      'スプーン曲げとは、[[matoinoba|まといのば]]がブログ開設初期の2011年から扱っている念力実験テーマである。金属スプーンを意識の力で曲げる体験を通じて、「気」や意識の扱い方の初歩を学ぶ入門的ワークとして位置づけられる。',
+      'スプーン曲げとは、[[matoinoba|まといのば]]がブログ初期（2011年頃）から扱っている念力実験テーマである。金属スプーンを意識の力で曲げる体験を通じて、「気」や意識の扱い方の初歩を学ぶ入門的ワークとして位置づけられる。ブログ自体は2010年7月に開設され、2026年に16周年を迎えた。',
       'ブログには独立テーマ「スプーン曲げ」が設けられ、読者からの体験報告が多数寄せられている。',
     ],
     infobox: [
@@ -359,9 +359,16 @@ export const articles: WikiArticle[] = [
         ],
       },
       {
+        heading: '舌骨を支える筋群',
+        paras: [
+          '2026年7月のブログでは、舌骨まわりの筋肉が「舌骨上筋群（顎二腹筋・顎舌骨筋・オトガイ舌骨筋・茎突舌骨筋の4つ）」「舌骨下筋群（肩甲舌骨筋・胸骨舌骨筋・甲状舌骨筋の3つ）」「中間の筋群（舌骨舌筋・中咽頭収縮筋の2つ）」と整理され、「4−3−2と下がっていく」という覚え方が示された。',
+          '上下から引っ張られ真ん中でも繋がるこの構造はテンセグリティーになぞらえられるが、厳密には「内圧が浮遊させている」と表現される。触診は、喉仏（甲状軟骨）を上へなぞり、唾を飲み込んで嚥下時に舌骨が上へ動くのを確かめる方法が紹介されている。',
+        ],
+      },
+      {
         heading: 'ミューイングとの関係',
         paras: [
-          'ミューイング（舌全体を上顎に密着させる口腔姿勢のメソッド）を行いながらアムリタを飲み込むとき、「舌骨はラピュタする（浮上する）」のかという問い立てで、嚥下動作における舌骨の挙上が考察されている。',
+          'ミューイング（舌全体を上顎に密着させる口腔姿勢のメソッド）を行いながらアムリタを飲み込むとき、「舌骨はラピュタする（浮上する）」のかという問い立てで、嚥下動作における舌骨の挙上が考察されている。セミナーでは「舌骨ラピュタ」の基本技術として実践的に扱うことが告知された。',
         ],
       },
     ],
@@ -667,7 +674,7 @@ export const articles: WikiArticle[] = [
       {
         heading: 'シン・気功Club',
         paras: [
-          '2026年、これらの理論を共有する共同体として「シン・気功Club」が発足した。発足記念イベントはRAyCademy1周年記念と合同で開催され、超VIPコース（本家マスタークラス参加券付き、[[hone-migaki|Ray骨磨き券]]付き）からZoomコースまで幅広い参加形態が設定された。',
+          '2026年、これらの理論を共有する共同体として「シン・気功Club」が発足した。発足記念イベントはRAyCademy1周年記念と合同で開催され、超VIPコース（本家マスタークラス参加券付き、[[hone-migaki|Ray骨磨き券]]付き）からZoomコースまで幅広い参加形態が設定された。2026年8月からはオンラインメンタリング「シン・気功Club OnLine MenTor（通称・シン・メンター）」も始動している。',
           '「宇宙人の言語もユニバーサル・グラマーの数式に置き換えることができる」という言明のように、気功・言語・心理を統一的に数理化する野心的な理論空間（LUB）として構想されている。',
         ],
       },
@@ -1395,6 +1402,7 @@ export const articles: WikiArticle[] = [
         heading: 'シリーズ展開',
         paras: [
           '美肌クリームは「美白」「美肌トリートメント」「美髪トリートメント」「美肌クリーム版・S字螺旋」などへ派生した。ヒーラー「しらゆき」の得意技としても知られ、[[kassai|喝采]]や「[[hai-no-fukkatsu|肺の復活]]」とセットの遠隔ヒーリングメニューにも組み込まれた。',
+          '本家Matopediaには「[[hajimete-bihada|はじめての美肌クリーム]]」「S字螺旋」「筋肉」「空海の身体」「血液気功」「消化器のアップデート」「常在菌叢」「情報的身体」「物理的身体」「キメ・ハリ・ツヤ」「気感（しっとり⇒じっとり⇒もっちり）」「[[bihada-dynamic|ダイナミック版]]（つぼの中・プログラミング）」など二十近い派生項目が登録されており、美肌クリームがまといのば美容系技術の中核であったことがうかがえる。',
         ],
       },
     ],
@@ -1843,6 +1851,13 @@ export const articles: WikiArticle[] = [
         heading: '自在コントロール',
         paras: [
           '「知識があり、抽象度が高ければ、チャクラも丹田も自在にコントロール可能です」とされる。チャクラ開きを悟りのような一度きりの事故として待つのではなく、技術として再現可能にするのがまといのばの立場である。',
+        ],
+      },
+      {
+        heading: '第一〜第七チャクラの個別トリガー',
+        paras: [
+          '本家Matopediaでは第一から第七まで各チャクラが独立項目として登録され、それぞれに簡潔なトリガーが与えられていた。第一〜第三チャクラは「[[ki-no-tama|気の球]]を作って腹部深くに押し込む」——押し込むときにきちんと身体の中に入れるのが大事とされる。第四チャクラは「胸骨中央に軽く触れる」、第五チャクラは「のどに軽く触れる」、第六チャクラは「眉間に軽く触れる」、第七チャクラは「頭頂部（百会）に軽く触れる」。',
+          '注意点も各チャクラごとに個性があり、第四は激しくやると熱性の気が強くなりすぎて厄介、第六は最重要チャクラだが「きちんと下からチャクラをつくらないと危ない」、第七は「クラウンチャクラとして最重要と思われていたが、むしろガス抜きやセンターが通過するために重要と感じられたのかもしれない」と記されていた。',
         ],
       },
     ],
@@ -4683,23 +4698,37 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-1318',
     title: 'インナーチャイルドシート',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      'インナーチャイルドシートとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      'インナーチャイルドシートとは、泣き叫ぶ[[gijutsu-617|インナーチャイルド]]を落ち着かせるための気功技術である。本家Matopediaでは「未公開」の扱いで、ヒーラー向けに限定的に共有されていた。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '心理・ヒーリング系気功技術' },
+      { label: 'トリガー', value: '手でシート（座席）を作る' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '泣き叫ぶインナーチャイルドを落ち着かせる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          'インナーチャイルドを想定した、[[ki-no-tama|気の球]]のためのシート（座席）を手で作る。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          'インナーチャイルドの気の球を覆うようにして、手で支えてあげる。頭の中で起きている現象で終わらせず、身体の変化などのフィードバックをきちんと取り、現実の変容まで「観る」ことが重要とされる。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-617', 'ki-no-tama'],
     sources: [
       { label: 'MATOPEDIA「インナーチャイルドシート」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=1318' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -4871,31 +4900,24 @@ export const articles: WikiArticle[] = [
     slug: 's-743',
     title: 'S字',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      'S字とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      'S字とは、本家Matopedia（matopedia.net）の索引に収録された美容系の項目である。本家の項目自体が[[s-jirassen|S字螺旋]]への参照のみで構成されており、実質的にS字螺旋の別名・入口として機能していた。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '美容系（参照項目）' },
+      { label: '参照先', value: '[[s-jirassen|S字螺旋]]' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '効果・トリガー（ブログの言及）',
-        paras: [
-          'ここ何年か全身、骨盤神経から臓器にかけてのS字を結構がっつり使ってきていたので、仙髄の効果にびっくりしました。（2023-01-10 の記事「ここ何年か骨盤神経から臓器にかけてS字をがっつり使ってきていたので、仙髄の効果に」より）',
-          '（以前はかなりぶっ飛んだメンバーさんが多かったので、たとえば第一チャクラの気功技術をあえて第六チャクラの場所に放り込むといわゆるS字的な効果が期待できると報告してくれた方もいました）。（2021-11-26 の記事「正直衝撃でした。今までのトレーニング概念が一気に崩れてしまいました。〜気功はもっ」より）',
-          'せいぜい最近の技術である「S字クンダリーニ」のトリガーに使う程度です。（2013-01-07 の記事「恥骨調整と尾骨調整について（ようやく）」より）',
-        ],
-      },
-      {
         heading: '概要',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '本家Matopediaでは「関連項目：S字螺旋」とだけ記され、独立した機能・トリガーの記載はない。詳細は[[s-jirassen|S字螺旋]]を参照。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['s-jirassen'],
     sources: [
       { label: 'まといのばブログ「ここ何年か骨盤神経から臓器にかけてS字をがっつり使ってきていたので、仙髄の効果に」（2023-01-10）', url: 'https://ameblo.jp/matoinoba/entry-12783560146.html' },
       { label: 'まといのばブログ「正直衝撃でした。今までのトレーニング概念が一気に崩れてしまいました。〜気功はもっ」（2021-11-26）', url: 'https://ameblo.jp/matoinoba/entry-12712294661.html' },
@@ -5139,24 +5161,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-146',
     title: '縁起マトリックス',
-    category: '理論体系',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '縁起マトリックスとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '縁起マトリックスとは、自分を中心に広がる縁起のネットワークを可視化する気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '存在論系気功技術' },
+      { label: 'トリガー', value: '「縁起ネットワーク」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '自分を中心に広がる縁起ネットワークを可視化する。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「縁起ネットワーク」と唱える。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '縁起の網の目・存在論の網の目に絡め取られている「自我」という点を感じるところまでが、この技術の射程とされる。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-601', 'gijutsu-555'],
     sources: [
       { label: 'MATOPEDIA「縁起マトリックス」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=146' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -5165,24 +5201,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-555',
     title: '縁起マトリックス(身体デザインバージョン)',
-    category: '理論体系',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '縁起マトリックス(身体デザインバージョン)とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '縁起マトリックス（身体デザインバージョン）とは、身体デザインコーチ養成スクール用に調整された[[gijutsu-146|縁起マトリックス]]である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '存在論系気功技術' },
+      { label: 'トリガー', value: '箱庭を手に持ち中を観る' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '身体デザインコーチ養成スクール用の縁起マトリックス。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '[[gijutsu-148|箱庭]]を手に持ち、その中に自分と周囲の空間を観る。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '縁起マトリックスの感覚が身体の中にまで侵食するイメージで行う。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-146', 'gijutsu-148'],
     sources: [
       { label: 'MATOPEDIA「縁起マトリックス(身体デザインバージョン)」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=555' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -5351,30 +5401,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-424',
     title: '外反母趾',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '外反母趾とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '外反母趾（がいはんぼし）とは、外反母趾の形状そのものに直接働きかけて解消を図る気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '手を温めてかざす' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '効果・トリガー（ブログの言及）',
+        heading: '機能（効果）',
         paras: [
-          '外反母趾、内反小指の緩和にも効果的です。（2010-09-08 の記事「足の甲のマッサージポイント」より）',
+          '直接的に外反母趾の形状を解消するための方法。',
         ],
       },
       {
-        heading: '概要',
+        heading: 'トリガー（やり方）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '手を温めて外反母趾にかざし、周辺を緩めるように温める。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '即効性があり視覚的にも面白い技術とされる一方、根本的な解消のためには重心位置を変える地道な努力が必要とされる。[[una|ウナ（重心ポイント）]]など重心系の理論と併せて扱われる。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-442', 'una'],
     sources: [
       { label: 'まといのばブログ「足の甲のマッサージポイント」（2010-09-08）', url: 'https://ameblo.jp/matoinoba/entry-10642568817.html' },
       { label: 'MATOPEDIA「外反母趾」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=424' },
@@ -6115,24 +6173,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-338',
     title: '頚椎１番',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '頚椎１番とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '頚椎１番（けいついいちばん）とは、頚椎1番の[[r-yuragi|R（ゆらぎ）]]をゆらがせる気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '大後頭孔の周辺に触れる' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '頚椎の1番のR（アール）をゆらがせる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '[[gijutsu-340|大後頭孔]]の周辺に触れて、頚椎の1番を意識する。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '「首が回らない」というときに一瞬で解消するには頚椎の1番が効果的とされる。肩が下がり、首の可動域が広がる。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-340', 'gijutsu-336', 'r-yuragi'],
     sources: [
       { label: 'MATOPEDIA「頚椎１番」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=338' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -6141,24 +6213,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-336',
     title: '頚椎１番２番',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '頚椎１番２番とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '頚椎１番２番（けいついいちばんにばん）とは、頚椎1番・2番のRをゆらがせる気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '大後頭孔の周辺に触れる／「環椎軸椎」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '頚椎の1番2番のR（アール）をゆらがせる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '[[gijutsu-340|大後頭孔]]の周辺に触れて頚椎の1番2番を意識する。「環椎軸椎」と唱えても良い。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '首の可動域を調整したいときは、環椎・軸椎を丁寧に調整するのが良いとされる。手を使って「ペットボトルの蓋をこじ開ける」イメージで——こじ開けようとして壊すくらいでちょうど良い、と表現される。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-338', 'gijutsu-340'],
     sources: [
       { label: 'MATOPEDIA「頚椎１番２番」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=336' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -6781,23 +6867,37 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-372',
     title: 'サラダボール',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      'サラダボールとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      'サラダボールとは、高度な身体と身体操作を実現するために、骨盤のリアリティを徹底的にゆらがせる気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '骨盤に触れ、取り出して器のように動かす' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '高度な身体と身体操作を実現するために、骨盤のリアリティを徹底的にゆらがせる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '腸骨を中心に[[gijutsu-415|骨盤]]に触れ、イメージで骨盤を取り出す。取り出した骨盤をサラダボウルの器のように感じて、前後の傾きを調整するように動かす。骨盤（＝サラダボウル）全体に触れる。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '他の身体系の気功技術をきちんと使えるようになってからでないと、効果を得ることは難しいとされる上級者向けの技術。身体デザインコーチ養成スクールで扱われた。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-415', 'gijutsu-437'],
     sources: [
       { label: 'MATOPEDIA「サラダボール」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=372' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -7464,29 +7564,32 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-49',
     title: '浄霊',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      '浄霊とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '浄霊（じょうれい）とは、動物霊などを情報空間で処理するための気功技術である。本家Matopediaでは「除霊」の項目名でも登録されていた。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: 'ヒーリング系気功技術' },
+      { label: '対象', value: '動物霊など' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '効果・トリガー（ブログの言及）',
+        heading: '機能（効果）',
         paras: [
-          '（かつては「アンカー切り」とか、「トリガーの付け替え」とか、単に「浄化」や「浄霊」などに言い換えようとしてきました）。（2020-09-14 の記事「ヘラクレイトスには、我々のすることの全てが哀れに見えたが、デモクリトスには、愚か」より）',
+          '身体を情報空間で巨大にして（[[daishuten|大周天]]）、「間違えてプチっと踏んでしまう」などして、動物霊なり何かを踏み即死させる——というユーモラスな発想で語られる浄化法。',
         ],
       },
       {
-        heading: '概要',
+        heading: '注意事項・その他',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '「情報空間に現実世界の常識を変に持ち込まない」ことが要点とされる。',
+          'ブログでは後年、「アンカー切り」「トリガーの付け替え」、あるいは単に「浄化」や「浄霊」といった言い換えの系譜の中でも言及されている。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['daishuten', 'doubutsurei'],
     sources: [
       { label: 'まといのばブログ「ヘラクレイトスには、我々のすることの全てが哀れに見えたが、デモクリトスには、愚か」（2020-09-14）', url: 'https://ameblo.jp/matoinoba/entry-12624977076.html' },
       { label: 'MATOPEDIA「浄霊」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=49' },
@@ -7942,23 +8045,37 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-74',
     title: '姿•外見の調整',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      '姿•外見の調整とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '姿・外見の調整とは、外見の観察のみで、相手に触れずに身体の調整を行う気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '施術系気功技術' },
+      { label: 'トリガー', value: '観察して外側から手で調整をかける' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '外見の観察のみで、相手に触れず身体の調整を行う。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '相手の姿・外見を観察したら、相手の身体に外側から働きかけるように、手を使って調整をかける。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '細かい部分ではなく、全体に働きかけるアプローチに向いている。動作は大げさなくらい大きく——相手の身体をゴムに見立てて、ぐにゃっと曲げる・引き延ばすなど。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['kikou-seitai'],
     sources: [
       { label: 'MATOPEDIA「姿•外見の調整」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=74' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -8087,24 +8204,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-437',
     title: '仙骨•骨盤',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '仙骨•骨盤とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '仙骨・骨盤とは、骨盤・仙骨全般のRをゆらがせる気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '「骨盤・仙骨」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '骨盤・仙骨全般のRをゆらがせる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「骨盤・仙骨」と唱える。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '仙骨がゼリーやプリンのように柔らかくなり、下に落ちて前へ、恥骨の方へ行く感覚が語られる。「滑り台のような腸骨内側をイメージして、仙骨ゼリーを滑らせる」という表現もある。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-328', 'gijutsu-415'],
     sources: [
       { label: 'MATOPEDIA「仙骨•骨盤」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=437' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -8277,31 +8408,25 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-709',
     title: '大孔',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '大孔とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '大孔（だいこう）とは、本家Matopedia（matopedia.net）の索引に収録された身体系の項目である。本家の項目自体が[[gijutsu-340|大後頭孔]]への参照のみで構成されており、実質的に大後頭孔の別名・入口として機能していた。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系（参照項目）' },
+      { label: '参照先', value: '[[gijutsu-340|大後頭孔]]' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '効果・トリガー（ブログの言及）',
-        paras: [
-          '大孔もしくは後頭骨は今回の縁起書き換えのトリガーの1つです。（2011-10-20 の記事「突然機嫌よくなってびっくりでした」より）',
-          '今回のトリガーは労宮、胸骨、大孔、後頭骨、そして中丹田ラポールでした。（2011-10-20 の記事「突然機嫌よくなってびっくりでした」より）',
-        ],
-      },
-      {
         heading: '概要',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '本家Matopediaでは「関連項目：大後頭孔」とだけ記され、独立した機能・トリガーの記載はない。詳細は[[gijutsu-340|大後頭孔]]を参照。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-340'],
     sources: [
       { label: 'まといのばブログ「突然機嫌よくなってびっくりでした」（2011-10-20）', url: 'https://ameblo.jp/matoinoba/entry-11052856700.html' },
       { label: 'MATOPEDIA「大孔」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=709' },
@@ -8352,23 +8477,37 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-400',
     title: 'ダ•ヴィンチ',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      'ダ•ヴィンチとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      'ダ・ヴィンチとは、身体を広く大きくゆるめて使うための気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '「遠くへ」と意識する' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '身体を広く大きくゆるめて使う。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「遠くへ」と意識する。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          'ダ・ヴィンチの「ウィトルウィウス的人体図」が示すような、手先・指先を遠くへ伸ばす身体の使い方。まといのばで「ゆるめる」とは、広げる・伸ばすと同義とされる。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['bujutsu-no-karada', 'training-chain'],
     sources: [
       { label: 'MATOPEDIA「ダ•ヴィンチ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=400' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -8420,23 +8559,24 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-712',
     title: 'タッチセラピー',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      'タッチセラピーとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      'タッチセラピーとは、本家Matopedia（matopedia.net）の索引に収録されたヒーリング系の項目である。本家の項目自体が[[kikou-seitai|気功整体]]への参照のみで構成されており、実質的に気功整体の別名・入口として機能していた。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: 'ヒーリング系（参照項目）' },
+      { label: '参照先', value: '[[kikou-seitai|気功整体]]' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
         heading: '概要',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '本家Matopediaでは「関連項目：気功整体」とだけ記され、独立した機能・トリガーの記載はない。詳細は[[kikou-seitai|気功整体]]を参照。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['kikou-seitai'],
     sources: [
       { label: 'MATOPEDIA「タッチセラピー」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=712' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -10242,24 +10382,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-183',
     title: '非線形•不連続の風景',
-    category: '理論体系',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '非線形•不連続の風景とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '非線形・不連続の風景とは、「世界は非線形・不連続である」という考え方へ思考をパラダイムシフトさせる気功技術である。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '風景系気功技術' },
+      { label: 'トリガー', value: '「非線形・不連続の風景」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '非線形・不連続である世界という考え方に、思考をパラダイムシフトする。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「非線形・不連続の風景」と唱える。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '我々は線形（リニア）で連続的な世界に慣れ親しんでいるが、それは脳の機能に基づいた思考の形式であり、それを外化したのがイデア論である——しかし世界は連続でも線形でもない。その非線形で不連続な世界の風景を共有する、「風景」系の気功技術。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-195', 'kikou'],
     sources: [
       { label: 'MATOPEDIA「非線形•不連続の風景」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=183' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -10588,23 +10742,37 @@ export const articles: WikiArticle[] = [
     slug: 'gijutsu-457',
     title: '美容整形•目で殺す',
     category: '気功技術',
-    updated: '2026年7月20日',
+    updated: '2026年7月30日',
     lead: [
-      '美容整形•目で殺すとは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '美容整形・目で殺すとは、まといのばの美容整形系気功技術の一つである。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '美容系気功技術' },
+      { label: 'トリガー', value: '相手の輪郭と情報場を一瞬で観る' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '美容整形の技術の一つ。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '相手の輪郭と情報場を一瞬で観る。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '[[bihada-cream|美肌クリーム]]をきちんと使いこなし、美肌クリーム・美容整形もほとんど使いこなしてから使用したい、とされる上級技術。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['bihada-cream', 'gijutsu-307'],
     sources: [
       { label: 'MATOPEDIA「美容整形•目で殺す」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=457' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -10813,24 +10981,38 @@ export const articles: WikiArticle[] = [
   {
     slug: 'gijutsu-539',
     title: '平滑筋•心筋',
-    category: 'バレエ技法',
-    updated: '2026年7月20日',
+    category: '気功技術',
+    updated: '2026年7月30日',
     lead: [
-      '平滑筋•心筋とは、本家Matopedia（matopedia.net）の気功技術索引に収録された、まといのばの気功技術・ワークの一つである。',
+      '平滑筋・心筋とは、かつてヒーラー養成講座で配布された気功技術の一つで、平滑筋・心筋に気を流すものである。',
     ],
     infobox: [
-      { label: '分類', value: '気功技術・ワーク' },
-      { label: '出典', value: '本家Matopedia索引' },
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '「平滑筋・心筋」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
     ],
     sections: [
       {
-        heading: '概要',
+        heading: '機能（効果）',
         paras: [
-          '本家Matopedia（まといのば公式の気功技術百科事典。2012年頃にヒーラー養成メンバーが共同制作）の索引に収録されている技術。詳細な手順・トリガーは講座・セミナー内での伝授が中心であり、本家サイト閉鎖に伴い、現在はアーカイブ上に項目名が残る。',
+          '平滑筋・心筋に気を流す。かつてヒーラー養成講座で配布された技術の一つ。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「平滑筋・心筋」と唱える。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '筋肉のうち、内臓（不随意筋）に特化した技術。',
         ],
       },
     ],
-    related: ['matoinoba', 'kikou'],
+    related: ['gijutsu-380', 'gijutsu-398'],
     sources: [
       { label: 'MATOPEDIA「平滑筋•心筋」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=539' },
       { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
@@ -11898,6 +12080,376 @@ export const articles: WikiArticle[] = [
     sources: [
       { label: '【開校！】７期ヒーラー養成スクール「知の旅」', url: 'https://web.archive.org/web/20170319223909/http://ameblo.jp/matoinoba/entry-11323614565.html' },
       { label: 'MATOPEDIA「ワープ」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/20170319223909/http://matopedia.net/?p=173' },
+    ],
+  },
+  {
+    slug: 'eye',
+    title: 'Eye',
+    reading: 'アイ',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      'Eye（アイ）とは、目のためのパーツ別気功技術である。潤んだ瞳、くっきりとした黒目に透き通った白目、二重などを目指す美容系の技術で、目の周囲の筋肉にも作用するため、パソコン作業などによる疲れ目にも効果的とされる。',
+    ],
+    infobox: [
+      { label: '分類', value: '美容系気功技術' },
+      { label: 'トリガー', value: '「Eye」と唱えつつ両手で目を覆う' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          'パーツ別気功技術の一つ。潤んだ瞳、くっきりとした黒目に透き通った白目、二重などにする。目の周囲の筋肉にも作用するので、疲れ目にも効果的とされる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「Eye」と唱えつつ、両手で目を覆う。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '目に限らず美容整形系の技術は、きちんとフィードバックを取った方が良い——写真撮影して厳密に比較するつもりで、とされる。',
+        ],
+      },
+    ],
+    related: ['gijutsu-82', 'gijutsu-307'],
+    sources: [
+      { label: 'MATOPEDIA「Eye」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=86' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'aiki',
+    title: '合気',
+    reading: 'あいき',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      '合気（あいき）とは、武術の合気をスムーズに実践するための気功技術である。',
+    ],
+    infobox: [
+      { label: '分類', value: '武術系気功技術' },
+      { label: 'トリガー', value: '「合気」と唱える' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          '合気をスムーズに実践するための気功技術。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「合気」と唱える。もしくは合気をしようと意図して発火させる。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '「かなり丁寧に指導を受けないと使えない技術」とされる。',
+        ],
+      },
+    ],
+    related: ['bujutsu-no-karada', 'oreinai-ude'],
+    sources: [
+      { label: 'MATOPEDIA「合気」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=475' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'r-aru',
+    title: 'R（アール）',
+    reading: 'あーる',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      'R（アール）とは、[[r-yuragi|Rゆらぎ]]を起こさせるための気功技術である。当初は「Rゆらぎ」と呼ばれていたが、後に「R（アール）」へ呼称が改められた。',
+    ],
+    infobox: [
+      { label: '分類', value: '基礎系気功技術' },
+      { label: 'トリガー', value: 'よく観る' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          'Rゆらぎを起こさせるための技術。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          'よく観る。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '「気とは関係性、観測した意図のこと」という、まといのばの気の定義と結びつけて語られる。',
+        ],
+      },
+    ],
+    related: ['r-yuragi'],
+    sources: [
+      { label: 'MATOPEDIA「R（アール）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=558' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'kinmaku',
+    title: '筋膜',
+    reading: 'きんまく',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      '筋膜（きんまく）とは、筋の表面に沿って気を流す気功技術である。施術メニューとしての[[fascia-release|筋膜リリース]]の背景にある、パーツ系の基礎技術。',
+    ],
+    infobox: [
+      { label: '分類', value: '身体系気功技術' },
+      { label: 'トリガー', value: '「筋膜」と唱えて気を流す' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          '筋膜（筋の表面）に沿って気を流す技術。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「筋膜」と唱え、手の適当な場所に触れ、筋の表面に気を流す。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '内臓などに対して用いると高い効果を発揮するとされる。',
+        ],
+      },
+    ],
+    related: ['fascia-release', 'gijutsu-380'],
+    sources: [
+      { label: 'MATOPEDIA「筋膜」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=386' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'kukai',
+    title: '空海',
+    reading: 'くうかい',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      '空海（くうかい）とは、特殊なチャクラを回す気功技術である。名称は公開時に「空海」が流行していたことにちなむもので、[[kuukai-body|空海の身体]]という技術とは全く無関係（名前が似ているだけ）と明言されている。',
+    ],
+    infobox: [
+      { label: '分類', value: 'チャクラ系気功技術' },
+      { label: 'トリガー', value: '後頭部の斜め上後方にボールを意識' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          '特殊なチャクラを回す。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '後頭部の斜め上後方にボールを意識する。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '魔法使いの帽子の先端や、フォトリーディングにおける「みかん集中法」と同じ発想とされる。「空海が使っていたかは不明」。',
+        ],
+      },
+    ],
+    related: ['kuukai-body', 'chakra'],
+    sources: [
+      { label: 'MATOPEDIA「空海」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=126' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'secret-idou',
+    title: 'シークレット（移動）',
+    reading: 'いどう',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      'シークレット（移動）とは、「美しい身体」講座の技術の一つで、チャクラ・丹田を身体の前面から背面へ移動させることで抽象度を上げる気功技術である。',
+    ],
+    infobox: [
+      { label: '分類', value: '中枢系気功技術' },
+      { label: 'トリガー', value: 'アバターを取り出して背面へ移動' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          'チャクラ、丹田を身体の前面から背面に向けて移動させることで抽象度を上げる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          'チャクラや丹田の[[avatar|アバター]]を取り出して、それを背面へ移動させる。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          'きちんと取り出して、きちんと移動させて、きちんとフィードバックを取らないと、「手から技術がすり抜ける」とされる。',
+        ],
+      },
+    ],
+    related: ['avatar', 'chakra', 'katanden'],
+    sources: [
+      { label: 'MATOPEDIA「シークレット（移動）」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=110' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'chakra-zouki',
+    title: 'チャクラ臓器仮説',
+    reading: 'ちゃくらぞうきかせつ',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      'チャクラ臓器仮説とは、「チャクラは臓器に対応している」というアイデアのもとでチャクラを回す気功技術・考え方である。',
+    ],
+    infobox: [
+      { label: '分類', value: 'チャクラ系・理論仮説' },
+      { label: 'トリガー', value: '「チャクラ臓器仮説」と唱えて働きかける' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          'チャクラは臓器に対応しているというアイデアでチャクラを回す。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '「チャクラ臓器仮説」と唱えた上で、チャクラに働きかける。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          'チャクラという臓器が実在するわけではない。ハートのチャクラ（4番）が心臓と肺に、6番が前頭前野に対応するというように、「ある機能を物理抽象度で実現する臓器が存在する」という仮説である。',
+          '血管も血液も取り出せるが、血流や循環は取り出せない。肺も気管も取り出せるが、呼吸は取り出して目の前に置くことができない——機能は情報抽象度に存在する、という例えで説明される。',
+        ],
+      },
+    ],
+    related: ['chakra', 'kikou'],
+    sources: [
+      { label: 'MATOPEDIA「チャクラ臓器仮説」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=142' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'hajimete-bihada',
+    title: 'はじめての美肌クリーム',
+    reading: 'はじめてのびはだくりーむ',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      'はじめての美肌クリームとは、入門講座「はじめての美肌クリーム」で伝授された気功技術である。「ハンドクリームのいらない手」を目指す、[[bihada-cream|美肌クリーム]]の入門版にあたる。',
+    ],
+    infobox: [
+      { label: '分類', value: '美容系気功技術' },
+      { label: 'トリガー', value: '手を重ねて温かさを感じる' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          '「はじめての美肌クリーム」講座で伝授した気功技術。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          '手を重ねて温かさを感じる。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          'ハンドクリームのいらない手を目指す気功技術、とされる。',
+        ],
+      },
+    ],
+    related: ['bihada-cream'],
+    sources: [
+      { label: 'MATOPEDIA「はじめての美肌クリーム」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=657' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
+    ],
+  },
+  {
+    slug: 'wakagaeri-no-izumi',
+    title: '若返りの泉',
+    reading: 'わかがえりのいずみ',
+    category: '気功技術',
+    updated: '2026年7月30日',
+    lead: [
+      '若返りの泉とは、「若さの泉」とも呼ばれる気功技術で、体内の[[gijutsu-144|ミトコンドリア]]を活性化し、身体の若返りを図るとされる（本家Matopediaでも「要出典」付きで記述されている）。',
+    ],
+    infobox: [
+      { label: '分類', value: 'アンチエイジング系気功技術' },
+      { label: 'トリガー', value: '手のひらで握る動作' },
+      { label: '開発者', value: 'まといのば' },
+      { label: '出典', value: '本家Matopedia' },
+    ],
+    sections: [
+      {
+        heading: '機能（効果）',
+        paras: [
+          '身体内のミトコンドリアを活性化し、身体を若返らせるとされる。',
+        ],
+      },
+      {
+        heading: 'トリガー（やり方）',
+        paras: [
+          'ハンドグリップを握るときのように、手のひらで握る動作を行う。握る動作時の指先は、できるだけ小さな動きで、力まないように動かす。',
+        ],
+      },
+      {
+        heading: '注意事項・その他',
+        paras: [
+          '筋肉がパンプアップされるように感じるが、実際には筋力トレーニングとは異なる。筋肉がゆるんで正しい位置に行くことにより、立体感のある美しい筋肉が生まれる、と説明される。[[izumi-airhandgrip|泉（エアーハンドグリップ）]]と発想が近い。',
+        ],
+      },
+    ],
+    related: ['gijutsu-144', 'izumi-airhandgrip'],
+    sources: [
+      { label: 'MATOPEDIA「若返りの泉」（本家matopedia.net・アーカイブ）', url: 'https://web.archive.org/web/2016/http://matopedia.net/?p=367' },
+      { label: 'MATOPEDIA 気功技術索引（本家matopedia.net）', url: 'https://web.archive.org/web/20161028205737/http://matopedia.net/?page_id=754' },
     ],
   },
 ]
